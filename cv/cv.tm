@@ -182,7 +182,7 @@
       C++\ 
     </cell>|<\cell>
       TensorFlow, <verbatim|Flux.jl>, DEAL.II,
-      <verbatim|DifferentialEquations.jl>
+      <verbatim|DifferentialEquations.jl>,<new-line>Paraview, VisIt
     </cell>>|<row|<\cell>
       \;
     </cell>|<\cell>
