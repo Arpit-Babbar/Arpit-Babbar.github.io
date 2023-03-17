@@ -107,24 +107,18 @@
   Mathematics<next-line>Supervisor: Prof. Praveen Chandrashekar.
 
   <timeline|2018\U2020><with|font-series|bold|M.Sc. in Mathematics> Tata
-  Institute of Fundamental Research - Centre for Applicable Mathematics
-
-  Percentage - 87.25
+  Institute of Fundamental Research - Centre for Applicable
+  Mathematics<next-line>Percentage - 87.25<next-line>First class with
+  distinction
 
   <timeline|2014-2017><with|font-series|bold|B.Sc. (Honours) in Mathematics>
-  Sri Venkateswara College, Delhi University
-
-  Percentage - 83
+  Sri Venkateswara College, Delhi University<next-line>Percentage - 83
 
   <timeline|2012-2014><with|font-series|bold|CBSE, AISSCE> Nosegay Public
-  School
-
-  Percentage - 92.4
+  School<next-line>Percentage - 92.4
 
   <timeline|2010-12><with|font-series|bold|CBSE, AISSCE> Nosegay Public
-  School
-
-  CGPA - 9.6/10
+  School<next-line>CGPA - 9.6/10
 
   <\cv-section>
     Publications
@@ -175,7 +169,7 @@
     </cell>|<\cell>
       Julia, Python
     </cell>|<\cell>
-      <verbatim|Trixi.jl>, <verbatim|git>, Linux, <TeXmacs>, Windows
+      <verbatim|Trixi.jl>, <verbatim|git>, Linux, <TeXmacs>, <LaTeX>, Windows
     </cell>>|<row|<\cell>
       \;
     </cell>|<\cell>
@@ -241,36 +235,30 @@
     Teaching Experience
   </cv-section>
 
-  <timeline|2020><with|font-series|italic|Real Analysis>
-
-  Assignment evaluation, discussions
-
-  <timeline|2021><with|font-series|italic|Computational Methods of PDEs>
-
-  Recitations, software support, assignment evaluation, discussions
-
-  <timeline|2022><with|font-series|italic|Computational Methods of PDEs>\ 
-
-  Tutorials, software support, recitation, discussion
-
-  <timeline|2022><with|font-series|italic|Python programming, Summer Workout
-  in Mathematics (SWIM)>\ 
-
-  Tutorials, recitations, discussions
-
-  <timeline|2022><with|font-series|italic|Statistical learning, Summer
-  Workout in Mathematics (SWIM)>\ 
-
-  Discussions
+  <timeline|2023><with|font-series|italic|Numerical
+  Analysis><next-line>Teaching, tutorials, software support, prescribing
+  assignments and exams, grading
 
   <timeline|2022><with|font-series|italic|National Centre for Mathematics
-  (NCM) - Numerical Methods for Partial Differential Equations>\ 
+  (NCM) - Numerical Methods for Partial Differential
+  Equations><next-line>Tutorial, software support
 
-  Tutorial, software support
+  <timeline|2022><with|font-series|italic|Statistical learning, Summer
+  Workout in Mathematics (SWIM), TIFR-CAM><next-line>Discussions
 
-  <timeline|2023><with|font-series|italic|Numerical Analysis>\ 
+  <timeline|2022><with|font-series|italic|Python programming, Summer Workout
+  in Mathematics (SWIM), TIFR-CAM><next-line>Tutorials, recitations,
+  discussions
 
-  Teaching, tutorials, software support, prescribing assignments and exams
+  <timeline|2022><with|font-series|italic|Computational Methods of
+  PDEs><next-line>Tutorials, software support, recitation, discussion
+
+  <timeline|2021><with|font-series|italic|Computational Methods of
+  PDEs><next-line>Recitations, software support, assignment evaluation,
+  discussions
+
+  <timeline|2020><with|font-series|italic|Real Analysis><next-line>Assignment
+  evaluation, discussions
 
   <\cv-section>
     Referee Service
@@ -283,14 +271,19 @@
     Workshops
   </cv-section>
 
-  <timeline|2019>NCM Advanced Instructional School - Geometric measure
-  theory, IIT Madras
+  <timeline|2022>NCM Workshop - Numerical Methods for Partial Differential
+  Equations, IISER - TVM
+
+  <timeline|2022>IGP/IWR School on <with|font-shape|italic|Hardware aware
+  scientific computing><next-line>Mini project -
+  <with|font-shape|italic|<enumerate|Performance analysis of the CFD code
+  HiFlow3>>
 
   <timeline|2019>NCM Advanced Instructional School - Geometric analysis, IIT
   Bombay
 
-  <timeline|2022>NCM Workshop - Numerical Methods for Partial Differential
-  Equations, IISER - TVM
+  <timeline|2019>NCM Advanced Instructional School - Geometric measure
+  theory, IIT Madras
 
   <\cv-section>
     References
