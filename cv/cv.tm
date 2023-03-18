@@ -156,8 +156,8 @@
     </cell>|<\cell>
       <with|font-family|ss|font-series|light|Languages>
     </cell>|<\cell>
-      <with|font-family|ss|font-series|light|Operating Systems, Softwares and
-      Packages>
+      <with|font-family|ss|font-series|light|Operating systems, software and
+      packages>
     </cell>>|<row|<\cell>
       \;
     </cell>|<\cell>
@@ -211,7 +211,7 @@
   <timeline|2017>Certificate of merit for the best academic performance at
   IISER Mohali
 
-  <with|font-family|ss|font-series|light|National competetions>
+  <with|font-family|ss|font-series|light|National competitions>
 
   <timeline|2017>All India Rank (AIR) 55 in Council of Scientific and
   Industrial Research - National Eligiblity Test (CSIR - NET), thus
