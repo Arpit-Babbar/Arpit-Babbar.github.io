@@ -84,9 +84,8 @@
       </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.8>
           Centre for Applicable Mathematics<next-line>Tata Institute of
-          Fundamental Research<next-line>Bangalore 560065
-
-          Karnataka, India
+          Fundamental Research<next-line>Bangalore 560065<new-line>Karnataka,
+          India
         </with>
       </cell>|<\cell>
         <space|4em>
@@ -102,17 +101,18 @@
     <very-large|Education>
   </cv-section>
 
-  <timeline|2020-2024><with|font-series|bold|Ph.D.> Tata Institute of
+  <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.>> Tata Institute of
   Fundamental Research - Centre for Applicable
-  Mathematics<next-line>Supervisor: Prof. Praveen Chandrashekar.
+  Mathematics<next-line>Supervisor: <abbr|Prof.> Praveen Chandrashekar
 
-  <timeline|2018\U2020><with|font-series|bold|M.Sc. in Mathematics> Tata
-  Institute of Fundamental Research - Centre for Applicable
+  <timeline|2018\U2020><with|font-series|bold|<abbr|M.Sc.> in Mathematics>
+  Tata Institute of Fundamental Research - Centre for Applicable
   Mathematics<next-line>Percentage - 87.25<next-line>First class with
   distinction
 
-  <timeline|2014-2017><with|font-series|bold|B.Sc. (Honours) in Mathematics>
-  Sri Venkateswara College, Delhi University<next-line>Percentage - 83
+  <timeline|2014-2017><with|font-series|bold|<abbr|B.Sc.> (Honours) in
+  Mathematics> Sri Venkateswara College, Delhi
+  University<next-line>Percentage - 83
 
   <timeline|2012-2014><with|font-series|bold|CBSE, AISSCE> Nosegay Public
   School<next-line>Percentage - 92.4
@@ -133,18 +133,19 @@
     Work in Progress
   </cv-section>
 
-  \PDomain-invariant MUSCL-Hancock blending limiter for Lax-Wendroff
-  schemes.\Q with Sudarshan Kumar Kenettinkara, and Praveen Chandrashekar
+  <timeline|\<bullet\>>\PDomain-invariant MUSCL-Hancock blending limiter for
+  Lax-Wendroff schemes.\Q with Sudarshan Kumar Kenettinkara, and Praveen
+  Chandrashekar
 
-  \P<with|font-series|bold|Neural networks> for computing blending
-  coefficient for Lax-Wendroff blending schemes.\Q with Deep Ray, Praveen
-  Chandrashekar, Vaishnavi Sharma
+  <timeline|\<bullet\>>\P<with|font-series|bold|Neural networks> for
+  computing blending coefficient for Lax-Wendroff blending schemes.\Q with
+  Deep Ray, Praveen Chandrashekar, Vaishnavi Sharma
 
-  \PLax-Wendroff schemes for viscous problems on unstructured, curvilinear
-  meshes\Q with Praveen Chandrashekar
+  <timeline|\<bullet\>>\PLax-Wendroff schemes for viscous problems on
+  unstructured, curvilinear meshes\Q with Praveen Chandrashekar
 
-  \PError based time stepping schemes for single step evolution methods\Q
-  with Praveen Chandrashekar
+  <timeline|\<bullet\>> \PError based time stepping schemes for single step
+  evolution methods\Q with Praveen Chandrashekar
 
   <\cv-section>
     Technical skills
@@ -214,11 +215,11 @@
   <with|font-family|ss|font-series|light|National competitions>
 
   <timeline|2017>All India Rank (AIR) 55 in Council of Scientific and
-  Industrial Research - National Eligiblity Test (CSIR - NET), thus
-  qualifying for Junior Research Fellowship
+  Industrial Research - National Eligiblity Test (CSIR-NET), thus qualifying
+  for Junior Research Fellowship
 
-  <timeline|2017>AIR 22 in IIT-JAM, the nationwide M.Sc. entrance exam for
-  IITs
+  <timeline|2017>AIR 22 in IIT-JAM, the nationwide <abbr|M.Sc.> entrance exam
+  for IITs
 
   <\cv-section>
     Talks
@@ -226,7 +227,7 @@
 
   <timeline|2023>\QError based time stepping for Lax-Wendroff Flux
   Reconstruction\Q at Indo-German conference on Computational Mathematics
-  (IGCM), organized by CDS IISc - Bangalore and IWR Heidelberg Germany
+  (IGCM), organized by CDS IISc-Bangalore and IWR Heidelberg Germany
 
   <timeline|2022>\QLax-Wendroff Flux Reconstruction for hyperbolic
   conservation laws\Q during visit at IISER-Trivandrum
@@ -240,7 +241,7 @@
   assignments and exams, grading
 
   <timeline|2022><with|font-series|italic|National Centre for Mathematics
-  (NCM) - Numerical Methods for Partial Differential
+  (NCM)-Numerical Methods for Partial Differential
   Equations><next-line>Tutorial, software support
 
   <timeline|2022><with|font-series|italic|Statistical learning, Summer
@@ -265,25 +266,24 @@
   </cv-section>
 
   <math|10<rsup|th>> International Congress on Industrial and Applied
-  Mathematics (ICIAM) 2023, Tokyo
+  Mathematics<nbsp>(ICIAM) 2023, Tokyo
 
   <\cv-section>
     Workshops
   </cv-section>
 
   <timeline|2022>NCM Workshop - Numerical Methods for Partial Differential
-  Equations, IISER - TVM
+  Equations, IISER-TVM
 
   <timeline|2022>IGP/IWR School on <with|font-shape|italic|Hardware aware
-  scientific computing><next-line>Mini project -
-  <with|font-shape|italic|<enumerate|Performance analysis of the CFD code
-  HiFlow3>>
+  scientific computing><next-line>Mini project-<with|font-shape|italic|<enumerate|Performance
+  analysis of the CFD code HiFlow3>>
 
-  <timeline|2019>NCM Advanced Instructional School - Geometric analysis, IIT
+  <timeline|2019>NCM Advanced Instructional School-Geometric analysis, IIT
   Bombay
 
-  <timeline|2019>NCM Advanced Instructional School - Geometric measure
-  theory, IIT Madras
+  <timeline|2019>NCM Advanced Instructional School-Geometric measure theory,
+  IIT Madras
 
   <\cv-section>
     References
