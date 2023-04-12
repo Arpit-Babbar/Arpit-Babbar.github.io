@@ -195,7 +195,8 @@
     </cell>|<\cell>
       Fortran
     </cell>|<\cell>
-      <verbatim|CUDA.jl>, <verbatim|clawpack>, <verbatim|HOHQMesh>, macOS
+      <verbatim|CUDA.jl>, <verbatim|MPI.jl>, <verbatim|clawpack>,
+      <verbatim|HOHQMesh>, macOS
     </cell>>>>
   </wide-tabular>
 
