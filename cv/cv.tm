@@ -276,7 +276,7 @@
   <timeline|2022>NCM Workshop - Numerical Methods for Partial Differential
   Equations, IISER-TVM
 
-  <timeline|2022>Juliacon hackathon - <hlink|wrote a finite volume code for
+  <timeline|2022>Juliacon hackathon - <hlink|<verbatim|CUDA.jl> FVM code for
   1D Euler's equations|https://github.com/Arpit-Babbar/arpit_practise/tree/hackathon/hyperbolic_systems>
 
   <timeline|2021>IGP/IWR School on <with|font-shape|italic|Hardware aware
