@@ -133,9 +133,9 @@
     Working papers
   </cv-section>
 
-  <timeline|\<bullet\>>\PAdmissibility preserving subcell limiter for
-  Lax-Wendroff flux reconstruction.\Q with Sudarshan Kumar Kenettinkara, and
-  Praveen Chandrashekar (2023) <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+  <timeline|2023>\PAdmissibility preserving subcell limiter for Lax-Wendroff
+  flux reconstruction.\Q with Sudarshan Kumar Kenettinkara, and Praveen
+  Chandrashekar <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
 
   <\cv-section>
     Work in Progress
