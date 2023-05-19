@@ -130,19 +130,23 @@
   <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423>
 
   <\cv-section>
+    Working papers
+  </cv-section>
+
+  <timeline|\<bullet\>>\PAdmissibility preserving subcell limiter for
+  Lax-Wendroff flux reconstruction.\Q with Sudarshan Kumar Kenettinkara, and
+  Praveen Chandrashekar (2023) <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+
+  <\cv-section>
     Work in Progress
   </cv-section>
 
-  <timeline|\<bullet\>>\PDomain-invariant MUSCL-Hancock blending limiter for
-  Lax-Wendroff schemes.\Q with Sudarshan Kumar Kenettinkara, and Praveen
-  Chandrashekar
+  <timeline|\<bullet\>>\PLax-Wendroff schemes for viscous problems on
+  unstructured, curvilinear meshes\Q with Praveen Chandrashekar
 
   <timeline|\<bullet\>>\P<with|font-series|bold|Neural networks> for
   computing blending coefficient for Lax-Wendroff blending schemes.\Q with
   Deep Ray, Praveen Chandrashekar, Vaishnavi Sharma
-
-  <timeline|\<bullet\>>\PLax-Wendroff schemes for viscous problems on
-  unstructured, curvilinear meshes\Q with Praveen Chandrashekar
 
   <timeline|\<bullet\>> \PError based time stepping schemes for single step
   evolution methods\Q with Praveen Chandrashekar
@@ -324,3 +328,9 @@
     <associate|src-compact|inline args>
   </collection>
 </initial>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|<with|mode|<quote|math>|\<bullet\>>|?>>
+  </collection>
+</references>
