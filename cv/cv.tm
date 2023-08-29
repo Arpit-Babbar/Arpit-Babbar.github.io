@@ -97,6 +97,8 @@
     </wide-tabular>
   </with>
 
+  <hrule>
+
   <\cv-section>
     <very-large|Education>
   </cv-section>
@@ -141,15 +143,21 @@
     Work in Progress
   </cv-section>
 
-  <timeline|\<bullet\>>\PLax-Wendroff schemes for viscous problems on
-  unstructured, curvilinear meshes\Q with Praveen Chandrashekar
+  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff schemes for
+  viscous problems on unstructured, adaptively refined, curvilinear meshes>,
+  Arpit Babbar, Praveen Chandrashekar
 
-  <timeline|\<bullet\>>\P<with|font-series|bold|Neural networks> for
-  computing blending coefficient for Lax-Wendroff blending schemes.\Q with
-  Deep Ray, Praveen Chandrashekar, Vaishnavi Sharma
+  <timeline|\<bullet\>><with|font-shape|italic|Neural networks for computing
+  blending coefficient for Lax-Wendroff blending schemes>, Deep Ray, Praveen
+  Chandrashekar, Vaishnavi Sharma, Arpit Babbar
 
-  <timeline|\<bullet\>> \PError based time stepping schemes for single step
-  evolution methods\Q with Praveen Chandrashekar
+  <timeline|\<bullet\>><with|font-shape|italic|Error based time stepping
+  schemes for single step evolution methods>, Arpit Babbar, Praveen
+  Chandrashekar
+
+  <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
+  Flux Reconstruction schemes for hyperbolic conservation laws>, Arpit
+  Babbar, Praveen Chandrashekar
 
   <\cv-section>
     Technical skills
@@ -186,8 +194,7 @@
     </cell>|<\cell>
       C++\ 
     </cell>|<\cell>
-      TensorFlow, <verbatim|Flux.jl>, DEAL.II,
-      <verbatim|DifferentialEquations.jl>,<new-line>Paraview, VisIt
+      DEAL.II, <verbatim|DifferentialEquations.jl>, Paraview, VisIt
     </cell>>|<row|<\cell>
       \;
     </cell>|<\cell>
@@ -199,10 +206,41 @@
     </cell>|<\cell>
       Fortran
     </cell>|<\cell>
-      <verbatim|CUDA.jl>, <verbatim|MPI.jl>, <verbatim|clawpack>,
-      <verbatim|HOHQMesh>, macOS
+      TensorFlow, <verbatim|Flux.jl>, <verbatim|CUDA.jl>, <verbatim|MPI.jl>,
+      <verbatim|clawpack>, <verbatim|HOHQMesh>, macOS
     </cell>>>>
   </wide-tabular>
+
+  <\cv-section>
+    Talks
+  </cv-section>
+
+  <timeline|2023><with|font-shape|italic|Domain-invariant subcell-based
+  blending limiter for Lax-Wendroff Flux Reconstruction>, Arpit Babbar,
+  Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
+  <with|font-series|bold|ICIAM August 20-25, 2023>, Waseda Univ., Tokyo,
+  Japan
+
+  <timeline|2023><with|font-shape|italic|Admissibility preserving subcell
+  limiter for Lax-Wendroff flux reconstruction>, Arpit Babbar, Praveen
+  Chandrashekar, Sudarshan Kumar Kenettinkara,
+  \ <with|font-series|bold|ICOSAHOM, 14-18 August, 2023>, Yonsei University,
+  Seoul, Korea
+
+  <timeline|2023><with|font-shape|italic|Embedded error-based time stepping
+  for Lax-Wendroff Flux Reconstruction for compressible flows>, Arpit Babbar,
+  Praveen Chandrashekar, <with|font-series|bold|ICOSAHOM, 14-18 August,
+  2023>, Yonsei University, Seoul, Korea
+
+  <timeline|2023><with|font-shape|italic|Error based time stepping for
+  Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen Chandrashekar,
+  <with|font-series|bold|Indo-German conference on Computational Mathematics
+  (IGCM)>, organized by CDS IISc-Bangalore and IWR Heidelberg Germany
+
+  <timeline|2022><with|font-shape|italic|Lax-Wendroff Flux Reconstruction for
+  hyperbolic conservation laws>, Arpit Babbar, Praveen Chandrashekar,
+  Sudarshan Kumar Kenettinkara, during <with|font-series|bold|visit at
+  IISER-Trivandrum>
 
   <\cv-section>
     Academic achievements
@@ -225,17 +263,6 @@
 
   <timeline|2017>AIR 22 in IIT-JAM, the nationwide <abbr|M.Sc.> entrance exam
   for IITs
-
-  <\cv-section>
-    Talks
-  </cv-section>
-
-  <timeline|2023>\QError based time stepping for Lax-Wendroff Flux
-  Reconstruction\Q at Indo-German conference on Computational Mathematics
-  (IGCM), organized by CDS IISc-Bangalore and IWR Heidelberg Germany
-
-  <timeline|2022>\QLax-Wendroff Flux Reconstruction for hyperbolic
-  conservation laws\Q during visit at IISER-Trivandrum
 
   <\cv-section>
     Teaching Experience
@@ -328,9 +355,3 @@
     <associate|src-compact|inline args>
   </collection>
 </initial>
-
-<\references>
-  <\collection>
-    <associate|auto-1|<tuple|<with|mode|<quote|math>|\<bullet\>>|?>>
-  </collection>
-</references>
