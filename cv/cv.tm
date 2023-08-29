@@ -126,18 +126,19 @@
     Publications
   </cv-section>
 
-  <timeline|2022>Arpit Babbar, Sudarshan Kumar Kenettinkara, and Praveen
-  Chandrashekar. \PLax-wendroff flux reconstruction method for hyperbolic
-  conservation laws\Q. Journal of Computational Physics 467 (2022)
-  <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423>
+  <timeline|2022><with|font-shape|italic|Lax-wendroff flux reconstruction
+  method for hyperbolic conservation laws>, Arpit Babbar, Sudarshan Kumar
+  Kenettinkara, and Praveen Chandrashekar, \ Journal of Computational Physics
+  467 (2022) <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423>
 
   <\cv-section>
     Working papers
   </cv-section>
 
-  <timeline|2023>\PAdmissibility preserving subcell limiter for Lax-Wendroff
-  flux reconstruction.\Q with Sudarshan Kumar Kenettinkara, and Praveen
-  Chandrashekar <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+  <timeline|2023><with|font-shape|italic|Admissibility preserving subcell
+  limiter for Lax-Wendroff flux reconstruction>, Arpit Babbar, Sudarshan
+  Kumar Kenettinkara, and Praveen Chandrashekar
+  <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
 
   <\cv-section>
     Work in Progress
