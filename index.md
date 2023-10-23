@@ -1,6 +1,5 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+Welcome to my still-under-construction website. 
 
-layout: home
----
+I am about to give a talk in the Numerical Engine Room series which is organized by the developers of the wonderful package [Trixi.jl](https://github.com/Trixi-Framework/Trixi.jl). 
+
+Also, you can see my cv [here](cv.pdf). Thanks for visiting!
