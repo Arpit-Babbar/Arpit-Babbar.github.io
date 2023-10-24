@@ -11,6 +11,6 @@ The particular higher order methods that I work on are Lax-Wendroff Flux Reconst
 2. Provably admissibility preserving shock capturing capturing with particular focus on maintaining the high order accuracy, see the preprint of work [here](https://arxiv.org/abs/2305.10781)
 3. Embedded error-based time step computation method, see the abstract of ICOSAHOM presentation [here](https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3)
 
-You can see my cv [here](cv.pdf). Thanks for visiting!
+You can see my cv [here](cv.pdf). Thanks *for* visiting!
 ##### Presenting our work at [ICOSAHOM 2023](https://icosahom2023.org/), [Yonsei University, Seoul, Korea](https://www.yonsei.ac.kr/en_sc/index.jsp)
 ![alt-text-1](assets/icosahom.png)

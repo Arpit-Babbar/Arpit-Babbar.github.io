@@ -24,6 +24,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+author:
+  name   : "Arpit Babbar"
+  avatar : "/assets/bio_pixel.png"
+  bio    : "Approximately solving the approximations of physics."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.math.tifrbng.res.in/people/arpit"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
