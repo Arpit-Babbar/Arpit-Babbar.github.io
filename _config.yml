@@ -27,7 +27,7 @@ github_username:  jekyll
 author:
   name   : "Arpit Babbar"
   avatar : "/assets/bio_pixel.png"
-  bio    : "Approximately solving the approximations of physics."
+  bio    : "Approximating the approximations of physics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
