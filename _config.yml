@@ -41,6 +41,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+include:
+  - _pages
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -69,3 +72,10 @@ defaults:
       # comments: # true
       # share: true
       # related: true
+  # _pages
+  - scope:
+      path: "_news"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
