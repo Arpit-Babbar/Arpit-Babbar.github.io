@@ -14,4 +14,5 @@ The particular higher order methods that I work on are Lax-Wendroff Flux Reconst
 You can see my cv [here](cv.pdf). Thanks for visiting!
 ##### Presenting our work at [ICOSAHOM 2023](https://icosahom2023.org/), [Yonsei University, Seoul, Korea](https://www.yonsei.ac.kr/en_sc/index.jsp)
 <img src="assets/icosahom.png" width="80%"/>
+
 Photo credits to [Kedar Wagh](https://kedarswagh.github.io/)
