@@ -1,4 +1,4 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.1>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -75,7 +75,7 @@
 
   <\with|par-left|0>
     <\wide-tabular>
-      <tformat|<cwith|1|1|1|1|cell-halign|c>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|4|4|cell-halign|r>|<cwith|1|1|1|1|cell-hpart|2>|<cwith|1|1|1|-1|cell-valign|c>|<table|<row|<\cell>
+      <tformat|<cwith|1|1|1|1|cell-halign|c>|<cwith|1|1|2|2|cell-halign|r>|<cwith|1|1|3|3|cell-halign|r>|<cwith|1|1|1|1|cell-hpart|2>|<cwith|1|1|1|-1|cell-valign|c>|<table|<row|<\cell>
         <\with|font-size|2.5|font|Avenir Next|font-shape|condensed|par-mode|center>
           <\with|par-sep|0.0fn>
             <with|font-series|bold|Arpit Babbar><next-line>
@@ -83,15 +83,14 @@
         </with>
       </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.8>
-          Centre for Applicable Mathematics<next-line>Tata Institute of
-          Fundamental Research<next-line>Bangalore 560065<new-line>Karnataka,
-          India
+          <hlink|Centre for Applicable Mathematics|https://www.math.tifrbng.res.in/><next-line><hlink|Tata
+          Institute of Fundamental Research|https://www.tifr.res.in/><next-line>Bangalore
+          560065<new-line>Karnataka, India
         </with>
       </cell>|<\cell>
-        <space|4em>
-      </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.8>
-          <next-line>arpit@tifrbng.res.in
+          <hlink|arpit@babbar.dev|mailto:arpit@babbar.dev>,
+          <hlink|arpit@tifrbng.res.in|mailto:arpit@tifrbng.res.in><image|images/cv-altmejd-2.envelope-solid.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><image|images/cv-altmejd-3.globe-solid.png|0.01par|||>
         </with>
       </cell>>>>
     </wide-tabular>
@@ -141,20 +140,20 @@
   <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
 
   <\cv-section>
-    Work in Progress
+    Works in Progress
   </cv-section>
 
+  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
+  Reconstruction on adaptively refined, curvilinear meshes with embedded
+  error-based time stepping for hyperbolic conservation laws>, Arpit Babbar,
+  Praveen Chandrashekar
+
   <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff schemes for
-  viscous problems on unstructured, adaptively refined, curvilinear meshes>,
-  Arpit Babbar, Praveen Chandrashekar
+  solving second order PDEs>, Arpit Babbar, Praveen Chandrashekar
 
   <timeline|\<bullet\>><with|font-shape|italic|Neural networks for computing
   blending coefficient for Lax-Wendroff blending schemes>, Deep Ray, Praveen
   Chandrashekar, Vaishnavi Sharma, Arpit Babbar
-
-  <timeline|\<bullet\>><with|font-shape|italic|Error based time stepping
-  schemes for single step evolution methods>, Arpit Babbar, Praveen
-  Chandrashekar
 
   <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
   Flux Reconstruction schemes for hyperbolic conservation laws>, Arpit
@@ -207,8 +206,8 @@
     </cell>|<\cell>
       Fortran
     </cell>|<\cell>
-      TensorFlow, <verbatim|Flux.jl>, <verbatim|CUDA.jl>, <verbatim|MPI.jl>,
-      <verbatim|clawpack>, <verbatim|HOHQMesh>, macOS
+      TensorFlow, <verbatim|CUDA.jl>, <verbatim|MPI.jl>, <verbatim|clawpack>,
+      <verbatim|HOHQMesh>, macOS
     </cell>>>>
   </wide-tabular>
 
@@ -216,22 +215,32 @@
     Talks
   </cv-section>
 
-  <timeline|2023><with|font-shape|italic|Domain-invariant subcell-based
-  blending limiter for Lax-Wendroff Flux Reconstruction>, Arpit Babbar,
-  Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
+  <timeline|2023><hlink|<with|font-shape|italic|<verbatim|TrixiLW.jl>: A
+  high-order, single stage hyperbolic PDE solver
+  using<nbsp><hlink|<verbatim|Trixi.jl>|https://github.com/trixi-framework/Trixi.jl/>>|https://numerical-engine-room-talks.github.io/>,
+  Arpit Babbar, Praveen Chandrashekar, invited to present in the
+  <hlink|Numerical Engine Room Talks|https://numerical-engine-room-talks.github.io/>
+
+  <timeline|2023><hlink|<with|font-shape|italic|Domain-invariant
+  subcell-based blending limiter for Lax-Wendroff Flux
+  Reconstruction>|https://iciam2023.org/registered_data?id=02554>, Arpit
+  Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
   <with|font-series|bold|ICIAM August 20-25, 2023>, Waseda Univ., Tokyo,
   Japan
 
-  <timeline|2023><with|font-shape|italic|Admissibility preserving subcell
-  limiter for Lax-Wendroff flux reconstruction>, Arpit Babbar, Praveen
-  Chandrashekar, Sudarshan Kumar Kenettinkara,
+  <timeline|2023><hlink|<with|font-shape|italic|Admissibility preserving
+  subcell limiter for Lax-Wendroff flux reconstruction>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3>>,
+  Arpit Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, in
+  <with|font-shape|italic|MS6 Towards Practical High-Order Methods for
+  Unsteady High-Fidelity Computational Fluid Dynamics>,
   \ <with|font-series|bold|ICOSAHOM, 14-18 August, 2023>, Yonsei University,
   Seoul, Korea
 
-  <timeline|2023><with|font-shape|italic|Embedded error-based time stepping
-  for Lax-Wendroff Flux Reconstruction for compressible flows>, Arpit Babbar,
-  Praveen Chandrashekar, <with|font-series|bold|ICOSAHOM, 14-18 August,
-  2023>, Yonsei University, Seoul, Korea
+  <timeline|2023><hlink|<with|font-shape|italic|Embedded error-based time
+  stepping for Lax-Wendroff Flux Reconstruction for compressible
+  flows>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3>>,
+  Arpit Babbar, Praveen Chandrashekar, <with|font-series|bold|ICOSAHOM, 14-18
+  August, 2023>, Yonsei University, Seoul, Korea
 
   <timeline|2023><with|font-shape|italic|Error based time stepping for
   Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen Chandrashekar,
