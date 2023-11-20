@@ -90,7 +90,7 @@
       </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.8>
           <hlink|arpit@babbar.dev|mailto:arpit@babbar.dev>,
-          <hlink|arpit@tifrbng.res.in|mailto:arpit@tifrbng.res.in><image|images/cv-altmejd-2.envelope-solid.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><image|images/cv-altmejd-3.globe-solid.png|0.01par|||>
+          <hlink|arpit@tifrbng.res.in|mailto:arpit@tifrbng.res.in><image|images/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><image|images/globe.png|0.01par|||>
         </with>
       </cell>>>>
     </wide-tabular>
