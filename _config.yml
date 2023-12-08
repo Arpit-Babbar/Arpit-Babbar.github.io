@@ -43,7 +43,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Arpit_Babbar"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
+      icon: "fas fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Onb_QGwAAAAJ"
 
 # Build settings
