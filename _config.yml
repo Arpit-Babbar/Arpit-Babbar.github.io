@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Arpit Babbar
-email: me@arpitbabbar.dev
+email: mail@babbar.dev
 description: >- # this means to ignore newlines until "baseurl:"
   My academic website as a researcher of numerical algorithms for PDE solvers. Applications of my research include fluid dynamics. The particular numerical algorithms that I study are high-order, discontinuous Galerkin finite element methods.  
 baseurl: "" # the subpath of your site, e.g. /blog
