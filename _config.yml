@@ -42,6 +42,9 @@ author:
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Arpit_Babbar"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=Onb_QGwAAAAJ"
 
 # Build settings
 markdown: kramdown
