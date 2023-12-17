@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -82,15 +82,15 @@
           </with>
         </with>
       </cell>|<\cell>
-        <\with|par-mode|right|font-family|ss|font-size|0.8>
+        <\with|par-mode|right|font-family|ss|font-size|0.9>
           <hlink|Centre for Applicable Mathematics|https://www.math.tifrbng.res.in/><next-line><hlink|Tata
           Institute of Fundamental Research|https://www.tifr.res.in/><next-line>Bangalore
           560065<new-line>Karnataka, India
         </with>
       </cell>|<\cell>
-        <\with|par-mode|right|font-family|ss|font-size|0.8>
+        <\with|par-mode|right|font-family|ss|font-size|0.9>
           <hlink|arpit@babbar.dev|mailto:arpit@babbar.dev>,
-          <hlink|arpit@tifrbng.res.in|mailto:arpit@tifrbng.res.in><image|images/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><image|images/globe.png|0.01par|||>
+          <hlink|arpit@tifrbng.res.in|mailto:arpit@tifrbng.res.in><space|0.2spc><image|images/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><space|0.2spc><image|images/globe.png|0.01par|||>
         </with>
       </cell>>>>
     </wide-tabular>
@@ -148,11 +148,12 @@
   error-based time stepping for hyperbolic conservation laws>, Arpit Babbar,
   Praveen Chandrashekar
 
-  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff schemes for
-  solving second order PDEs>, Arpit Babbar, Praveen Chandrashekar
+  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
+  Reconstruction for advection-diffusion problems on curvilinear meshes with
+  error-based time stepping>, Arpit Babbar, Praveen Chandrashekar
 
-  <timeline|\<bullet\>><with|font-shape|italic|Neural networks for computing
-  blending coefficient for Lax-Wendroff blending schemes>, Deep Ray, Praveen
+  <timeline|\<bullet\>><with|font-shape|italic|Neural network based
+  smoothness indicator for subcell based blending schemes>, Deep Ray, Praveen
   Chandrashekar, Vaishnavi Sharma, Arpit Babbar
 
   <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
@@ -163,53 +164,66 @@
     Technical skills
   </cv-section>
 
-  <\wide-tabular>
-    <tformat|<cwith|2|2|1|1|cell-row-span|1>|<cwith|2|2|1|1|cell-col-span|3>|<cwith|2|2|1|1|cell-width|1>|<cwith|2|2|1|1|cell-hmode|exact>|<cwith|2|2|1|1|cell-height|0.0001>|<cwith|2|2|1|1|cell-vmode|exact>|<cwith|4|4|1|1|cell-row-span|1>|<cwith|4|4|1|1|cell-col-span|3>|<cwith|4|4|1|1|cell-height|0.0001>|<cwith|4|4|1|1|cell-vmode|exact>|<cwith|6|6|1|1|cell-row-span|1>|<cwith|6|6|1|1|cell-col-span|3>|<cwith|6|6|1|1|cell-height|0.0001>|<cwith|6|6|1|1|cell-vmode|exact>|<table|<row|<\cell>
-      <with|font-family|ss|font-series|light|Level>
-    </cell>|<\cell>
-      <with|font-family|ss|font-series|light|Languages>
-    </cell>|<\cell>
-      <with|font-family|ss|font-series|light|Operating systems, software and
-      packages>
-    </cell>>|<row|<\cell>
-      \;
-    </cell>|<\cell>
-      \;
-    </cell>|<\cell>
-      \;
-    </cell>>|<row|<\cell>
-      Advanced
-    </cell>|<\cell>
-      Julia, Python
-    </cell>|<\cell>
-      <verbatim|Trixi.jl>, <verbatim|git>, Linux, <TeXmacs>, <LaTeX>, Windows
-    </cell>>|<row|<\cell>
-      \;
-    </cell>|<\cell>
-      \;
-    </cell>|<\cell>
-      \;
-    </cell>>|<row|<\cell>
-      Intermediate
-    </cell>|<\cell>
-      C++\ 
-    </cell>|<\cell>
-      DEAL.II, <verbatim|DifferentialEquations.jl>, Paraview, VisIt
-    </cell>>|<row|<\cell>
-      \;
-    </cell>|<\cell>
-      \;
-    </cell>|<\cell>
-      \;
-    </cell>>|<row|<\cell>
-      Basic
-    </cell>|<\cell>
-      Fortran
-    </cell>|<\cell>
-      TensorFlow, <verbatim|CUDA.jl>, <verbatim|MPI.jl>, <verbatim|clawpack>,
-      <verbatim|HOHQMesh>, macOS
-    </cell>>>>
-  </wide-tabular>
+  <tabular|<tformat|<cwith|2|2|1|1|cell-row-span|1>|<cwith|2|2|1|1|cell-col-span|3>|<cwith|2|2|1|1|cell-width|1>|<cwith|2|2|1|1|cell-hmode|exact>|<cwith|2|2|1|1|cell-height|0.0001>|<cwith|2|2|1|1|cell-vmode|exact>|<cwith|4|4|1|1|cell-row-span|1>|<cwith|4|4|1|1|cell-col-span|3>|<cwith|4|4|1|1|cell-height|0.0001>|<cwith|4|4|1|1|cell-vmode|exact>|<cwith|6|6|1|1|cell-row-span|1>|<cwith|6|6|1|1|cell-col-span|3>|<cwith|6|6|1|1|cell-height|0.0001>|<cwith|6|6|1|1|cell-vmode|exact>|<table|<row|<\cell>
+    <with|font-family|ss|font-series|light|Level>
+  </cell>|<\cell>
+    <with|font-family|ss|font-series|light|Languages>
+  </cell>|<\cell>
+    <with|font-family|ss|font-series|light|Operating systems, software and
+    packages>
+  </cell>>|<row|<\cell>
+    \;
+  </cell>|<\cell>
+    \;
+  </cell>|<\cell>
+    \;
+  </cell>>|<row|<\cell>
+    Advanced
+  </cell>|<\cell>
+    Julia, Python
+  </cell>|<\cell>
+    <verbatim|Trixi.jl>, <verbatim|git>, Linux, <TeXmacs>, <LaTeX>, Windows
+  </cell>>|<row|<\cell>
+    \;
+  </cell>|<\cell>
+    \;
+  </cell>|<\cell>
+    \;
+  </cell>>|<row|<\cell>
+    Intermediate
+  </cell>|<\cell>
+    C++\ 
+  </cell>|<\cell>
+    DEAL.II, <verbatim|DifferentialEquations.jl>, Paraview, VisIt
+  </cell>>|<row|<\cell>
+    \;
+  </cell>|<\cell>
+    \;
+  </cell>|<\cell>
+    \;
+  </cell>>|<row|<\cell>
+    Basic
+  </cell>|<\cell>
+    Fortran
+  </cell>|<\cell>
+    TensorFlow, <verbatim|CUDA.jl>, <verbatim|MPI.jl>, <verbatim|clawpack>,
+    <verbatim|HOHQMesh>, macOS
+  </cell>>>>>
+
+  <\cv-section>
+    Software
+  </cv-section>
+
+  <tabular|<tformat|<table|<row|<cell|<verbatim|Tenkai.jl> >|<cell|Single
+  step hyperbolic conservation law solver with novel admissibility preserving
+  >>|<row|<cell|>|<cell|subcell based shock capturing scheme on Cartesian
+  meshes>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>
+  <with|font-shape|italic|(currently private)>>>|<row|<cell|>|<cell|>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
+  conservation law solver on adaptively refined curvilinear meshes with
+  >>|<row|<cell|>|<cell|novel error-based time stepping with Lax-Wendroff and
+  Multi-Derivative Runge-Kutta >>|<row|<cell|>|<cell|space-time
+  discretization in Flux Reconstruction framework>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/TrixiLW.jl|https://github.com/arpit-babbar/TrixiLW.jl>
+  <with|font-shape|italic|(currently private)>>>>>>
 
   <\cv-section>
     Talks
@@ -278,6 +292,10 @@
     Teaching Experience
   </cv-section>
 
+  <timeline|2023><hlink|<with|font-shape|italic|NCM Workshop - Finite Volume
+  and Spectral Methods for Hyperbolic Problems(2023)>|https://www.atmschools.org/school/2023/NCMW/fvsmhp><next-line>Problem
+  solving session prescription and software support
+
   <timeline|2023><with|font-series|italic|Numerical
   Analysis><next-line>Teaching, tutorials, software support, prescribing
   assignments and exams, grading
@@ -311,7 +329,7 @@
   Mathematics<nbsp>(ICIAM) 2023, Tokyo
 
   <\cv-section>
-    Workshops
+    Workshops attended
   </cv-section>
 
   <timeline|2022>NCM Workshop - Numerical Methods for Partial Differential
