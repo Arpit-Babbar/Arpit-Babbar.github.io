@@ -1,4 +1,4 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.1>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -130,35 +130,40 @@
   Kenettinkara, and Praveen Chandrashekar, \ Journal of Computational Physics
   467 (2022) <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423>
 
+  <timeline|2023><with|font-shape|italic|Admissibility preserving subcell
+  limiter for Lax-Wendroff flux reconstruction>, Arpit Babbar, Sudarshan
+  Kumar Kenettinkara, and Praveen Chandrashekar, accepted in Springer Journal
+  of Scientific Computing, \ <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+
   <\cv-section>
     Working papers
   </cv-section>
 
-  <timeline|2023><with|font-shape|italic|Admissibility preserving subcell
-  limiter for Lax-Wendroff flux reconstruction>, Arpit Babbar, Sudarshan
-  Kumar Kenettinkara, and Praveen Chandrashekar
-  <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+  <timeline|\<bullet\>><with|font-shape|italic|Generalized framework for
+  admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic
+  conservation laws with source terms>, Arpit Babbar, Praveen Chandrashekar,
+  submitted to ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442>
+
+  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
+  Reconstruction for advection-diffusion equations>, Arpit Babbar, Praveen
+  Chandrashekar, submitted to ICOSAHOM2023
 
   <\cv-section>
     Works in Progress
   </cv-section>
 
   <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
-  Reconstruction on adaptively refined, curvilinear meshes with embedded
-  error-based time stepping for hyperbolic conservation laws>, Arpit Babbar,
-  Praveen Chandrashekar
-
-  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
-  Reconstruction for advection-diffusion problems on curvilinear meshes with
-  error-based time stepping>, Arpit Babbar, Praveen Chandrashekar
-
-  <timeline|\<bullet\>><with|font-shape|italic|Neural network based
-  smoothness indicator for subcell based blending schemes>, Deep Ray, Praveen
-  Chandrashekar, Vaishnavi Sharma, Arpit Babbar
+  Reconstruction on adaptive curvilinear meshes with error based time
+  stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
+  Chandrashekar
 
   <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
   Flux Reconstruction schemes for hyperbolic conservation laws>, Arpit
   Babbar, Praveen Chandrashekar
+
+  <timeline|\<bullet\>><with|font-shape|italic|Neural network based
+  smoothness indicator for subcell based blending schemes>, Deep Ray, Praveen
+  Chandrashekar, Vaishnavi Sharma, Arpit Babbar
 
   <\cv-section>
     Technical skills
@@ -270,11 +275,14 @@
     Academic achievements
   </cv-section>
 
-  <with|font-family|ss|font-series|light|Scholarships>
+  <with|font-family|ss|font-series|light|Scholarships / Funding>
 
   <timeline|2018-Present>TIFR-CAM Research fellowship
 
   <with|font-family|ss|font-series|light|Institute Awards>
+
+  <timeline|2023>National Board of Higher Mathematics (NBHM) travel grant to
+  attend ICIAM-2023, Tokyo
 
   <timeline|2017>Certificate of merit for the best academic performance at
   IISER Mohali
