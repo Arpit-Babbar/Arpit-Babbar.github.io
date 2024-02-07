@@ -222,8 +222,7 @@
   <tabular|<tformat|<table|<row|<cell|<verbatim|Tenkai.jl> >|<cell|Single
   step hyperbolic conservation law solver with novel admissibility preserving
   >>|<row|<cell|>|<cell|subcell based shock capturing scheme on Cartesian
-  meshes>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>
-  <with|font-shape|italic|(currently private)>>>|<row|<cell|>|<cell|>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
+  meshes>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>>>|<row|<cell|>|<cell|>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
   conservation law solver on adaptively refined curvilinear meshes with
   >>|<row|<cell|>|<cell|novel error-based time stepping with Lax-Wendroff and
   Multi-Derivative Runge-Kutta >>|<row|<cell|>|<cell|space-time
