@@ -128,12 +128,11 @@
   <timeline|2022><with|font-shape|italic|Lax-wendroff flux reconstruction
   method for hyperbolic conservation laws>, Arpit Babbar, Sudarshan Kumar
   Kenettinkara, and Praveen Chandrashekar, \ Journal of Computational Physics
-  467 (2022) <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423>
-
-  <timeline|2023><with|font-shape|italic|Admissibility preserving subcell
-  limiter for Lax-Wendroff flux reconstruction>, Arpit Babbar, Sudarshan
-  Kumar Kenettinkara, and Praveen Chandrashekar, accepted in Springer Journal
-  of Scientific Computing, \ <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+  467 (2022) <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423><new-line><timeline|2023><with|font-shape|italic|Admissibility
+  preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
+  Babbar, Sudarshan Kumar Kenettinkara, and Praveen Chandrashekar, accepted
+  in Springer Journal of Scientific Computing,
+  \ <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
 
   <\cv-section>
     Working papers
@@ -142,11 +141,9 @@
   <timeline|\<bullet\>><with|font-shape|italic|Generalized framework for
   admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic
   conservation laws with source terms>, Arpit Babbar, Praveen Chandrashekar,
-  submitted to ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442>
-
-  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
-  Reconstruction for advection-diffusion equations>, Arpit Babbar, Praveen
-  Chandrashekar, submitted to ICOSAHOM2023
+  submitted to ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
+  Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
+  Praveen Chandrashekar, submitted to ICOSAHOM2023
 
   <\cv-section>
     Works in Progress
@@ -155,15 +152,11 @@
   <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
   Reconstruction on adaptive curvilinear meshes with error based time
   stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
-  Chandrashekar
-
-  <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
-  Flux Reconstruction schemes for hyperbolic conservation laws>, Arpit
-  Babbar, Praveen Chandrashekar
-
-  <timeline|\<bullet\>><with|font-shape|italic|Neural network based
-  smoothness indicator for subcell based blending schemes>, Deep Ray, Praveen
-  Chandrashekar, Vaishnavi Sharma, Arpit Babbar
+  Chandrashekar<new-line><timeline|\<bullet\>><with|font-shape|italic|Multiderivative
+  Runge-Kutta Flux Reconstruction schemes for hyperbolic conservation laws>,
+  Arpit Babbar, Praveen Chandrashekar<new-line><timeline|\<bullet\>><with|font-shape|italic|Neural
+  network based smoothness indicator for subcell based blending schemes>,
+  Deep Ray, Praveen Chandrashekar, Vaishnavi Sharma, Arpit Babbar
 
   <\cv-section>
     Technical skills
@@ -237,96 +230,66 @@
   high-order, single stage hyperbolic PDE solver
   using<nbsp><hlink|<verbatim|Trixi.jl>|https://github.com/trixi-framework/Trixi.jl/>>|https://numerical-engine-room-talks.github.io/>,
   Arpit Babbar, Praveen Chandrashekar, invited to present in the
-  <hlink|Numerical Engine Room Talks|https://numerical-engine-room-talks.github.io/>
-
-  <timeline|2023><hlink|<with|font-shape|italic|Domain-invariant
+  <hlink|Numerical Engine Room Talks|https://numerical-engine-room-talks.github.io/><new-line><timeline|2023><hlink|<with|font-shape|italic|Domain-invariant
   subcell-based blending limiter for Lax-Wendroff Flux
   Reconstruction>|https://iciam2023.org/registered_data?id=02554>, Arpit
   Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
   <with|font-series|bold|ICIAM August 20-25, 2023>, Waseda Univ., Tokyo,
-  Japan
-
-  <timeline|2023><hlink|<with|font-shape|italic|Admissibility preserving
-  subcell limiter for Lax-Wendroff flux reconstruction>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3>>,
+  Japan<new-line><timeline|2023><hlink|<with|font-shape|italic|Admissibility
+  preserving subcell limiter for Lax-Wendroff flux
+  reconstruction>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3>>,
   Arpit Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, in
   <with|font-shape|italic|MS6 Towards Practical High-Order Methods for
   Unsteady High-Fidelity Computational Fluid Dynamics>,
   \ <with|font-series|bold|ICOSAHOM, 14-18 August, 2023>, Yonsei University,
-  Seoul, Korea
-
-  <timeline|2023><hlink|<with|font-shape|italic|Embedded error-based time
-  stepping for Lax-Wendroff Flux Reconstruction for compressible
-  flows>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3>>,
+  Seoul, Korea<new-line><timeline|2023><hlink|<with|font-shape|italic|Embedded
+  error-based time stepping for Lax-Wendroff Flux Reconstruction for
+  compressible flows>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3>>,
   Arpit Babbar, Praveen Chandrashekar, <with|font-series|bold|ICOSAHOM, 14-18
-  August, 2023>, Yonsei University, Seoul, Korea
-
-  <timeline|2023><with|font-shape|italic|Error based time stepping for
-  Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen Chandrashekar,
-  <with|font-series|bold|Indo-German conference on Computational Mathematics
-  (IGCM)>, organized by CDS IISc-Bangalore and IWR Heidelberg Germany
-
-  <timeline|2022><with|font-shape|italic|Lax-Wendroff Flux Reconstruction for
-  hyperbolic conservation laws>, Arpit Babbar, Praveen Chandrashekar,
-  Sudarshan Kumar Kenettinkara, during <with|font-series|bold|visit at
-  IISER-Trivandrum>
+  August, 2023>, Yonsei University, Seoul,
+  Korea<new-line><timeline|2023><with|font-shape|italic|Error based time
+  stepping for Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen
+  Chandrashekar, <with|font-series|bold|Indo-German conference on
+  Computational Mathematics (IGCM)>, organized by CDS IISc-Bangalore and IWR
+  Heidelberg Germany<new-line><timeline|2022><with|font-shape|italic|Lax-Wendroff
+  Flux Reconstruction for hyperbolic conservation laws>, Arpit Babbar,
+  Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during
+  <with|font-series|bold|visit at IISER-Trivandrum>
 
   <\cv-section>
     Academic achievements
   </cv-section>
 
-  <with|font-family|ss|font-series|light|Scholarships / Funding>
-
-  <timeline|2018-Present>TIFR-CAM Research fellowship
-
-  <with|font-family|ss|font-series|light|Institute Awards>
-
-  <timeline|2023>National Board of Higher Mathematics (NBHM) travel grant to
-  attend ICIAM-2023, Tokyo
-
-  <timeline|2017>Certificate of merit for the best academic performance at
-  IISER Mohali
-
-  <with|font-family|ss|font-series|light|National competitions>
-
-  <timeline|2017>All India Rank (AIR) 55 in Council of Scientific and
-  Industrial Research - National Eligiblity Test (CSIR-NET), thus qualifying
-  for Junior Research Fellowship
-
-  <timeline|2017>AIR 22 in IIT-JAM, the nationwide <abbr|M.Sc.> entrance exam
-  for IITs
+  <timeline|2018-Present>TIFR-CAM Research
+  fellowship<new-line><timeline|2023>National Board of Higher Mathematics
+  (NBHM) travel grant to attend ICIAM-2023,
+  Tokyo<new-line><timeline|2017>Certificate of merit for the best academic
+  performance at IISER Mohali<new-line><timeline|2017>All India Rank (AIR) 55
+  in Council of Scientific and Industrial Research - National Eligiblity Test
+  (CSIR-NET), thus qualifying for Junior Research
+  Fellowship<new-line><timeline|2017>AIR 22 in IIT-JAM, the nationwide
+  <abbr|M.Sc.> entrance exam for IITs
 
   <\cv-section>
     Teaching Experience
   </cv-section>
 
-  <timeline|2023><hlink|<with|font-shape|italic|NCM Workshop - Finite Volume
-  and Spectral Methods for Hyperbolic Problems(2023)>|https://www.atmschools.org/school/2023/NCMW/fvsmhp><next-line>Problem
-  solving session prescription and software support
-
-  <timeline|2023><with|font-series|italic|Numerical
-  Analysis><next-line>Teaching, tutorials, software support, prescribing
-  assignments and exams, grading
-
-  <timeline|2022><with|font-series|italic|National Centre for Mathematics
-  (NCM)-Numerical Methods for Partial Differential
-  Equations><next-line>Tutorial, software support
-
-  <timeline|2022><with|font-series|italic|Statistical learning, Summer
-  Workout in Mathematics (SWIM), TIFR-CAM><next-line>Discussions
-
-  <timeline|2022><with|font-series|italic|Python programming, Summer Workout
-  in Mathematics (SWIM), TIFR-CAM><next-line>Tutorials, recitations,
-  discussions
-
-  <timeline|2022><with|font-series|italic|Computational Methods of
-  PDEs><next-line>Tutorials, software support, recitation, discussion
-
-  <timeline|2021><with|font-series|italic|Computational Methods of
-  PDEs><next-line>Recitations, software support, assignment evaluation,
-  discussions
-
-  <timeline|2020><with|font-series|italic|Real Analysis><next-line>Assignment
-  evaluation, discussions
+  <timeline|2023><hlink|<with|font-shape|italic|NCM - Finite Volume and
+  Spectral Methods for Hyperbolic Problems>|https://www.atmschools.org/school/2023/NCMW/fvsmhp>
+  (Problem session prescription, software)<new-line><timeline|2023><with|font-series|italic|Numerical
+  Analysis> (Teaching, tutorials, software support, prescribing assignments
+  and exams, grading)<new-line><timeline|2022><with|font-series|italic|National
+  Centre for Mathematics (NCM)-Numerical Methods for PDE> (Tutorial,
+  software)<new-line><timeline|2022><with|font-series|italic|Statistical
+  learning, Summer Workout in Mathematics (SWIM), TIFR-CAM>
+  (Discussions)<new-line><timeline|2022><with|font-series|italic|Python
+  programming (SWIM), TIFR-CAM> (Tutorials, recitations,
+  discussions)<new-line><timeline|2022><with|font-series|italic|Computational
+  Methods of PDEs> (Tutorials, software support, recitation,
+  discussion)<new-line><timeline|2021><with|font-series|italic|Computational
+  Methods of PDEs> (Recitations, software support, assignment evaluation,
+  discussions)<new-line><timeline|2020><with|font-series|italic|Real
+  Analysis> (Assignment evaluation, discussions)
 
   <\cv-section>
     Referee Service
@@ -340,35 +303,15 @@
   </cv-section>
 
   <timeline|2022>NCM Workshop - Numerical Methods for Partial Differential
-  Equations, IISER-TVM
-
-  <timeline|2022>Juliacon hackathon - <hlink|<verbatim|CUDA.jl> FVM code for
-  1D Euler's equations|https://github.com/Arpit-Babbar/arpit_practise/tree/hackathon/hyperbolic_systems>
-
-  <timeline|2021>IGP/IWR School on <with|font-shape|italic|Hardware aware
-  scientific computing><next-line>Mini project-<with|font-shape|italic|<enumerate|Performance
-  analysis of the CFD code HiFlow3>>
-
-  <timeline|2019>NCM Advanced Instructional School-Geometric analysis, IIT
-  Bombay
-
-  <timeline|2019>NCM Advanced Instructional School-Geometric measure theory,
-  IIT Madras
-
-  <\cv-section>
-    References
-  </cv-section>
-
-  <with|font-family|ss|font-series|light|Professor Praveen Chandrashekar>
-
-  PhD Supervisor \<bullet\> praveen@math.tifrbng.res.in \<bullet\> +91 80
-  6695 3719
-
-  <with|font-family|ss|font-series|light|Professor Sudarshan Kumar
-  Kenettinkara>
-
-  Co-author \<bullet\> sudarshan@iisertvm.ac.in \<bullet\> +91 (0)471 -
-  2778255
+  Equations, IISER-TVM<new-line><timeline|2022>Juliacon hackathon -
+  <hlink|<verbatim|CUDA.jl> FVM code for 1D Euler's
+  equations|https://github.com/Arpit-Babbar/arpit_practise/tree/hackathon/hyperbolic_systems><new-line><timeline|2021>IGP/IWR
+  School on <with|font-shape|italic|Hardware aware scientific
+  computing><next-line>Mini project-<with|font-shape|italic|<enumerate|Performance
+  analysis of the CFD code HiFlow3>><new-line><timeline|2019>NCM Advanced
+  Instructional School-Geometric analysis, IIT
+  Bombay<new-line><timeline|2019>NCM Advanced Instructional School-Geometric
+  measure theory, IIT Madras
 </body>
 
 <\initial>
