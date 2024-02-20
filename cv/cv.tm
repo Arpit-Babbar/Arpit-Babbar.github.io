@@ -142,6 +142,9 @@
   admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic
   conservation laws with source terms>, Arpit Babbar, Praveen Chandrashekar,
   submitted to ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
+  Flux Reconstruction on adaptive curvilinear meshes with error based time
+  stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
+  Chandrashekar, <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
   Praveen Chandrashekar, submitted to ICOSAHOM2023
 
@@ -149,12 +152,9 @@
     Works in Progress
   </cv-section>
 
-  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
-  Reconstruction on adaptive curvilinear meshes with error based time
-  stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
-  Chandrashekar<new-line><timeline|\<bullet\>><with|font-shape|italic|Multiderivative
-  Runge-Kutta Flux Reconstruction schemes for hyperbolic conservation laws>,
-  Arpit Babbar, Praveen Chandrashekar<new-line><timeline|\<bullet\>><with|font-shape|italic|Neural
+  <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
+  Flux Reconstruction schemes for hyperbolic conservation laws>, Arpit
+  Babbar, Praveen Chandrashekar<new-line><timeline|\<bullet\>><with|font-shape|italic|Neural
   network based smoothness indicator for subcell based blending schemes>,
   Deep Ray, Praveen Chandrashekar, Vaishnavi Sharma, Arpit Babbar
 
