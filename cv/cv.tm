@@ -236,15 +236,13 @@
   Reconstruction>|https://iciam2023.org/registered_data?id=02554>, Arpit
   Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
   <with|font-series|bold|ICIAM August 20-25, 2023>, Waseda Univ.,
-  Tokyo<new-line><timeline|2023><hlink|<with|font-shape|italic|Embedded
-  error-based time stepping for Lax-Wendroff Flux Reconstruction for
-  compressible flows>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3>>,
+  Tokyo<new-line><timeline|2023><with|font-shape|italic|Embedded error-based
+  time stepping for Lax-Wendroff Flux Reconstruction for compressible flows>,
   Arpit Babbar, Praveen Chandrashekar, <with|font-series|bold|ICOSAHOM, 14-18
   August, 2023>, Yonsei University, Seoul,
-  Korea<new-line><timeline|2023><hlink|<with|font-shape|italic|Admissibility
-  preserving subcell limiter for Lax-Wendroff flux
-  reconstruction>|<hlink|sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3|https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=4A3>>,
-  Arpit Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, in
+  Korea<new-line><timeline|2023><with|font-shape|italic|Admissibility
+  preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
+  Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, in
   <with|font-shape|italic|MS6 Towards Practical High-Order Methods for
   Unsteady High-Fidelity Computational Fluid Dynamics>,
   \ <with|font-series|bold|ICOSAHOM, 14-18 August,
