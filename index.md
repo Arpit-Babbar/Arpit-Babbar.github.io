@@ -8,8 +8,10 @@ I am a fourth year PhD student under Professor [Praveen Chandrashekar](https://c
 
 The particular higher order methods that I work on are Lax-Wendroff Flux Reconstruction (LWFR) schemes. These simulate time dependent flows without depending on an Ordinary Differential Equation (ODE) solver and can thus achieve higher order accuracy in a single stage, minimizing memory transfers even more than standard higher order methods. During my PhD, my colleagues and I made the following contributions to the LWFR scheme
 1. **Enhancement of stability and accuracy**: [Peer-reviewed article](https://www.sciencedirect.com/science/article/pii/S0021999122004855)
-2. **Provably admissibility-preserving shock capturing with particular focus on maintaining the benefits of high order accuracy:**  [Preprint](https://arxiv.org/abs/2305.10781)
-3. **Embedded error-based time step computation:**  [Abstract of ICOSAHOM presentation](https://sigongji.icosahom2023.org/wp/SessionPaperList.asp?code=2C3)
+2. **Provably admissibility-preserving shock capturing with particular focus on maintaining the benefits of high order accuracy:**  [Accepted preprint](https://arxiv.org/abs/2305.10781)
+3. **Embedded error-based time step computation, tested on adaptive curvilinear meshes.**  [Preprint](https://arxiv.org/abs/2402.11926)
+4. **Advection-diffusion equations like Navier-Stokes** [Preprint](https://arxiv.org/abs/2402.12669)
+5. **Generalized framework for admissibility preservation, source terms** [Preprint](https://arxiv.org/abs/2402.01442)
 
 You can see my cv [here](cv/cv.pdf). Thanks for visiting!
 ##### Presenting our work at [ICOSAHOM 2023](https://icosahom2023.org/), [Yonsei University, Seoul, Korea](https://www.yonsei.ac.kr/en_sc/index.jsp)
