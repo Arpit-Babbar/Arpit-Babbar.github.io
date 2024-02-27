@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -146,7 +146,8 @@
   stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
   Chandrashekar, <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
-  Praveen Chandrashekar, submitted to ICOSAHOM2023
+  Praveen Chandrashekar, submitted to ICOSAHOM2023,
+  <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669>
 
   <\cv-section>
     Works in Progress
