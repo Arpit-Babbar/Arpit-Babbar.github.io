@@ -249,8 +249,8 @@
   2023><new-line><timeline|2023><with|font-shape|italic|Error based time
   stepping for Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen
   Chandrashekar, <with|font-series|bold|Indo-German conference on
-  Computational Mathematics (IGCM)>, organized by CDS IISc-Bangalore and IWR
-  Heidelberg Germany<new-line><timeline|2022><with|font-shape|italic|Lax-Wendroff
+  Computational Mathematics (IGCM)>, CDS IISc & IWR
+  Heidelberg<new-line><timeline|2022><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for hyperbolic conservation laws>, Arpit Babbar,
   Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during
   <with|font-series|bold|visit at IISER-Trivandrum>
