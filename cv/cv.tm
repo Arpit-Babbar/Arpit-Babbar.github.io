@@ -128,7 +128,7 @@
   <timeline|2022><with|font-shape|italic|Lax-wendroff flux reconstruction
   method for hyperbolic conservation laws>, Arpit Babbar, Sudarshan Kumar
   Kenettinkara, and Praveen Chandrashekar, \ Journal of Computational Physics
-  467 (2022) <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423><new-line><timeline|2023><with|font-shape|italic|Admissibility
+  (JCP) 467 (2022) <hlink|https://doi.org/10.1016/j.jcp.2022.111423|https://doi.org/10.1016/j.jcp.2022.111423><new-line><timeline|2023><with|font-shape|italic|Admissibility
   preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
   Babbar, Sudarshan Kumar Kenettinkara, and Praveen Chandrashekar, accepted
   in Springer Journal of Scientific Computing,
@@ -144,10 +144,13 @@
   submitted to ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction on adaptive curvilinear meshes with error based time
   stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
-  Chandrashekar, <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
+  Chandrashekar, submitted to JCP, <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
   Praveen Chandrashekar, submitted to ICOSAHOM2023,
-  <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669>
+  <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
+  of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
+  Babbar, Praveen Chandrashekar, submitted to JCP,
+  <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937>
 
   <\cv-section>
     Works in Progress
