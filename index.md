@@ -12,6 +12,7 @@ The particular higher order methods that I work on are Lax-Wendroff Flux Reconst
 3. **Embedded error-based time step computation, tested on adaptive curvilinear meshes.**  [Preprint](https://arxiv.org/abs/2402.11926)
 4. **Advection-diffusion equations like Navier-Stokes** [Preprint](https://arxiv.org/abs/2402.12669)
 5. **Generalized framework for admissibility preservation, source terms** [Preprint](https://arxiv.org/abs/2402.01442)
+6. **Proven linear equivalence with ADER schemes where local evolution is performing by solving an implicit equation** [Preprint](https://arxiv.org/abs/2402.18937)
 
 You can see my cv [here](cv/cv.pdf). Thanks for visiting!
 ##### Presenting our work at [ICOSAHOM 2023](https://icosahom2023.org/), [Yonsei University, Seoul, Korea](https://www.yonsei.ac.kr/en_sc/index.jsp)
