@@ -1,4 +1,4 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.1>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -96,8 +96,6 @@
     </wide-tabular>
   </with>
 
-  <hrule>
-
   <\cv-section>
     <very-large|Education>
   </cv-section>
@@ -132,7 +130,7 @@
   preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
   Babbar, Sudarshan Kumar Kenettinkara, and Praveen Chandrashekar, accepted
   in Springer Journal of Scientific Computing,
-  \ <hlink|https://doi.org/10.48550/arXiv.2305.10781|https://doi.org/10.48550/arXiv.2305.10781>
+  \ <hlink|https://link.springer.com/article/10.1007/s10915-024-02482-9|https://link.springer.com/article/10.1007/s10915-024-02482-9>
 
   <\cv-section>
     Working papers
@@ -141,26 +139,31 @@
   <timeline|\<bullet\>><with|font-shape|italic|Generalized framework for
   admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic
   conservation laws with source terms>, Arpit Babbar, Praveen Chandrashekar,
-  submitted to ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
+  <with|font-series|bold|submitted to ICOSAHOM2023>,
+  <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction on adaptive curvilinear meshes with error based time
   stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
-  Chandrashekar, submitted to JCP, <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
+  Chandrashekar, <with|font-series|bold|submitted to JCP>,
+  <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
-  Praveen Chandrashekar, submitted to ICOSAHOM2023,
+  Praveen Chandrashekar, <with|font-series|bold|submitted to ICOSAHOM2023>,
   <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
   of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
-  Babbar, Praveen Chandrashekar, submitted to JCP,
-  <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937>
+  Babbar, Praveen Chandrashekar, <with|font-series|bold|submitted to JCP>,
+  <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Multiderivative
+  Runge-Kutta (MDRK) Flux Reconstruction schemes for hyperbolic conservation
+  laws>, Arpit Babbar, Praveen Chandrashekar,
+  <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141>
 
   <\cv-section>
     Works in Progress
   </cv-section>
 
-  <timeline|\<bullet\>><with|font-shape|italic|Multiderivative Runge-Kutta
-  Flux Reconstruction schemes for hyperbolic conservation laws>, Arpit
-  Babbar, Praveen Chandrashekar<new-line><timeline|\<bullet\>><with|font-shape|italic|Neural
-  network based smoothness indicator for subcell based blending schemes>,
-  Deep Ray, Praveen Chandrashekar, Vaishnavi Sharma, Arpit Babbar
+  <timeline|\<bullet\>><with|font-shape|italic|Neural network based
+  smoothness indicator for subcell based blending schemes>, Deep Ray, Praveen
+  Chandrashekar, Vaishnavi Sharma, Arpit Babbar<new-line><timeline|\<bullet\>><with|font-shape|italic|MDRK
+  schemes on curvilinear meshes with adaptive time stepping>, Praveen
+  Chandrashekar, Arpit Babbar
 
   <\cv-section>
     Technical skills
