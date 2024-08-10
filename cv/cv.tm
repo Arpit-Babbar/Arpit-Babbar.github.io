@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -99,6 +99,10 @@
   <\cv-section>
     <very-large|Education>
   </cv-section>
+
+  <timeline|2020-2024><with|font-series|bold|<abbr|Post doctoral research>>
+  Numerical Mathematics, Johannes Gutenberg University,
+  Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha
 
   <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.>> Tata Institute of
   Fundamental Research - Centre for Applicable
