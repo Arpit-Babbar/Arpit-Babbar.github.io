@@ -100,7 +100,7 @@
     <very-large|Education>
   </cv-section>
 
-  <timeline|2020-2024><with|font-series|bold|<abbr|Post doctoral research>>
+  <timeline|2020-2024><with|font-series|bold|<abbr|Postdoctoral researcher>>
   Numerical Mathematics, Johannes Gutenberg University,
   Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha
 
