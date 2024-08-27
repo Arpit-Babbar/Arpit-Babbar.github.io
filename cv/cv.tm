@@ -83,14 +83,14 @@
         </with>
       </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.9>
-          <hlink|Centre for Applicable Mathematics|https://www.math.tifrbng.res.in/><next-line><hlink|Tata
-          Institute of Fundamental Research|https://www.tifr.res.in/><next-line>Bangalore
-          560065<new-line>Karnataka, India
+          <hlink|Numerical Mathematics|https://www.numerik.mathematik.uni-mainz.de/><next-line><hlink|Johannes
+          Gutenberg University|https://www.numerik.mathematik.uni-mainz.de/><next-line>Mainz
+          55128<new-line>Rhineland-Palatinate, Germany
         </with>
       </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.9>
           <hlink|arpit@babbar.dev|mailto:arpit@babbar.dev>,
-          <hlink|arpit@tifrbng.res.in|mailto:arpit@tifrbng.res.in><space|0.2spc><image|images/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><space|0.2spc><image|images/globe.png|0.01par|||>
+          <hlink|ababbar@uni-mainz.de|mailto:ababbar@uni-mainz.de><space|0.2spc><image|images/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><space|0.2spc><image|images/globe.png|0.01par|||>
         </with>
       </cell>>>>
     </wide-tabular>
@@ -100,8 +100,8 @@
     <very-large|Education>
   </cv-section>
 
-  <timeline|2020-2024><with|font-series|bold|<abbr|Postdoctoral researcher>>
-  Numerical Mathematics, Johannes Gutenberg University,
+  <timeline|2024-Present><with|font-series|bold|<abbr|Postdoctoral
+  researcher>> Numerical Mathematics, Johannes Gutenberg University,
   Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha
 
   <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.>> Tata Institute of
@@ -134,30 +134,31 @@
   preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
   Babbar, Sudarshan Kumar Kenettinkara, and Praveen Chandrashekar, accepted
   in Springer Journal of Scientific Computing,
-  \ <hlink|https://link.springer.com/article/10.1007/s10915-024-02482-9|https://link.springer.com/article/10.1007/s10915-024-02482-9>
+  \ <hlink|https://link.springer.com/article/10.1007/s10915-024-02482-9|https://link.springer.com/article/10.1007/s10915-024-02482-9><new-line><timeline|2024><with|font-shape|italic|Generalized
+  framework for admissibility preserving Lax-Wendroff Flux Reconstruction for
+  hyperbolic conservation laws with source terms>, Arpit Babbar, Praveen
+  Chandrashekar, ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|2024><with|font-shape|italic|Lax-Wendroff
+  Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
+  Praveen Chandrashekar, <with|font-series|bold|submitted to ICOSAHOM2023>,
+  <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669>
 
   <\cv-section>
     Working papers
   </cv-section>
 
-  <timeline|\<bullet\>><with|font-shape|italic|Generalized framework for
-  admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic
-  conservation laws with source terms>, Arpit Babbar, Praveen Chandrashekar,
-  <with|font-series|bold|submitted to ICOSAHOM2023>,
-  <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
-  Flux Reconstruction on adaptive curvilinear meshes with error based time
+  <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
+  Reconstruction on adaptive curvilinear meshes with error based time
   stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
   Chandrashekar, <with|font-series|bold|submitted to JCP>,
-  <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff
-  Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
-  Praveen Chandrashekar, <with|font-series|bold|submitted to ICOSAHOM2023>,
-  <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
+  <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
   of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
-  Babbar, Praveen Chandrashekar, <with|font-series|bold|submitted to JCP>,
-  <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Multiderivative
+  Babbar, Praveen Chandrashekar,, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Multiderivative
   Runge-Kutta (MDRK) Flux Reconstruction schemes for hyperbolic conservation
   laws>, Arpit Babbar, Praveen Chandrashekar,
-  <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141>
+  <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
+  preserving Lax-Wendroff flux reconstruction method for special relativistic
+  hydrodynamics>, Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen
+  Chandrashekar
 
   <\cv-section>
     Works in Progress
