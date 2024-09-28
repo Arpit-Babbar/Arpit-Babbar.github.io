@@ -1,4 +1,4 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.2>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -139,8 +139,7 @@
   hyperbolic conservation laws with source terms>, Arpit Babbar, Praveen
   Chandrashekar, ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|2024><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
-  Praveen Chandrashekar, <with|font-series|bold|submitted to ICOSAHOM2023>,
-  <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669>
+  Praveen Chandrashekar, ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669>
 
   <\cv-section>
     Working papers
@@ -158,7 +157,7 @@
   <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
   preserving Lax-Wendroff flux reconstruction method for special relativistic
   hydrodynamics>, Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen
-  Chandrashekar
+  Chandrashekar, <hlink|https://arxiv.org/abs/2409.15805|https://arxiv.org/abs/2409.15805>
 
   <\cv-section>
     Works in Progress
