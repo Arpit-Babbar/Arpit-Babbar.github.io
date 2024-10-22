@@ -1,6 +1,10 @@
 ---
-layout: default
+-<!-- layout: home -->
+classes: wide
+author_profile: true
+permanentlink: /_pages/about.md
 ---
+
 # Peer reviewed publications
 
 5. Arpit Babbar and Praveen Chandrashekar, "Multi-derivative Runge-Kutta flux reconstruction for hyperbolic conservation laws", accepted in Communications on Applied Mathematics and Computation. [[ArXiv](https://arxiv.org/abs/2403.02141)]
