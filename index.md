@@ -2,7 +2,7 @@
 -<!-- layout: home -->
 classes: wide
 author_profile: true
-permanentlink: /_pages/about.md
+permanentlink: /_pages/publications.md
 ---
 I am a postdoctoral researcher under [Professor Hendrik Ranocha](https://ranocha.de/) in [the Numerical Mathematics group at Johannes Gutenberg University, Mainz](https://www.numerik.mathematik.uni-mainz.de/).
 
