@@ -18,4 +18,4 @@ permanentlink: /_pages/publications.md
 1. Arpit Babbar and Praveen Chandrashekar, "Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws". [[Arxiv](https://arxiv.org/abs/2402.11926)]
 
 ## Thesis
-1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Department of Mathematics, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, Bangalore, 2024. [PDF](https://babbar.dev/assets/thesis.pdf) [Source](https://github.com/Arpit-Babbar/dissertation)
+1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Department of Mathematics, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, Bangalore, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)] [[Source](https://github.com/Arpit-Babbar/dissertation)]
