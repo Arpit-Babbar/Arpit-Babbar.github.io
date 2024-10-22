@@ -56,6 +56,13 @@ plugins:
 include:
   - _pages
 
+# Source - https://talk.jekyllrb.com/t/title-derived-from-heading-appears-twice-on-top-of-page/1686/3
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
