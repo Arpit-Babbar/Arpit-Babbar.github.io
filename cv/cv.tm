@@ -237,6 +237,22 @@
     Talks
   </cv-section>
 
+  <timeline|2024>Admissibility preserving Lax\BWendroff Flux Reconstruction
+  schemes for compressible flows, IGHASC:
+  <with|font-series|bold|<hlink|Indo-german Workshop on Hardware-aware
+  Scientific Computing|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
+  Heidelberg, Germany.
+
+  <timeline|2024>Compact Runge-Kutta Flux Reconstruction methods,
+  <with|font-series|bold|<hlink|Kompaktseminar
+  2024|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2024/>>,
+  Prien am Chiemsee, Germany.
+
+  <timeline|2024>Admissibility preserving Flux Reconstruction / Discontinuous
+  Galerkin methods for compressible flows,
+  <with|font-series|bold|<hlink|Mathematics Of the Weather
+  2024|https://tpchange.de/meetings/4310-2/>>, Bad Orb, Germany.
+
   <timeline|2023><hlink|<with|font-shape|italic|<verbatim|TrixiLW.jl>: A
   high-order, single stage hyperbolic PDE solver
   using<nbsp><hlink|<verbatim|Trixi.jl>|https://github.com/trixi-framework/Trixi.jl/>>|https://numerical-engine-room-talks.github.io/>,
@@ -342,3 +358,9 @@
     <associate|src-compact|inline args>
   </collection>
 </initial>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|<with|mode|<quote|math>|\<bullet\>>|?>>
+  </collection>
+</references>
