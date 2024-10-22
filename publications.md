@@ -2,7 +2,7 @@
 -<!-- layout: home -->
 classes: wide
 author_profile: true
-permanentlink: /_pages/about.md
+permanentlink: /_pages/publications.md
 ---
 
 # Peer reviewed publications
