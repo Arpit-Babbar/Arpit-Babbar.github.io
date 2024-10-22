@@ -4,7 +4,6 @@ classes: wide
 author_profile: true
 permanentlink: /_pages/publications.md
 ---
-# Publications
 ## Peer reviewed publications
 5. Arpit Babbar and Praveen Chandrashekar, "Multi-derivative Runge-Kutta flux reconstruction for hyperbolic conservation laws", accepted in Communications on Applied Mathematics and Computation. [[ArXiv](https://arxiv.org/abs/2403.02141)]
 4. Arpit Babbar and Praveen Chandrashekar, "Generalized framework for admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic conservation laws with source terms", Proceedings of International Conference on Spectral and High Order Methods (ICOSAHOM2023). [[Arxiv](https://arxiv.org/abs/2402.01442)]
