@@ -90,7 +90,7 @@
       </cell>|<\cell>
         <\with|par-mode|right|font-family|ss|font-size|0.9>
           <hlink|arpit@babbar.dev|mailto:arpit@babbar.dev>,
-          <hlink|ababbar@uni-mainz.de|mailto:ababbar@uni-mainz.de><space|0.2spc><image|images/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><space|0.2spc><image|images/globe.png|0.01par|||>
+          <hlink|ababbar@uni-mainz.de|mailto:ababbar@uni-mainz.de><space|0.2spc><image|/Users/arpitbabbar/Documents/Main/arpit-babbar.github.io/cv/envelope.png|0.011par|||><next-line><hlink|babbar.dev|https://babbar.dev/><space|0.2spc><image|/Users/arpitbabbar/Documents/Main/arpit-babbar.github.io/cv/globe.png|0.01par|||>
         </with>
       </cell>>>>
     </wide-tabular>
@@ -240,7 +240,7 @@
   <timeline|2024>Admissibility preserving Lax\BWendroff Flux Reconstruction
   schemes for compressible flows, IGHASC:
   <with|font-series|bold|<hlink|Indo-german Workshop on Hardware-aware
-  Scientific Computing|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
+  Scientific Computing 2024|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
   Heidelberg, Germany.
 
   <timeline|2024>Compact Runge-Kutta Flux Reconstruction methods,
