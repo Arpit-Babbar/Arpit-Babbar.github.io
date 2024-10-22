@@ -139,7 +139,10 @@
   hyperbolic conservation laws with source terms>, Arpit Babbar, Praveen
   Chandrashekar, ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.01442|https://arxiv.org/abs/2402.01442><new-line><timeline|2024><with|font-shape|italic|Lax-Wendroff
   Flux Reconstruction for advection-diffusion equations>, Arpit Babbar,
-  Praveen Chandrashekar, ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669>
+  Praveen Chandrashekar, ICOSAHOM2023, <hlink|https://arxiv.org/abs/2402.12669|https://arxiv.org/abs/2402.12669><new-line><timeline|2024><with|font-shape|italic|Multiderivative
+  Runge-Kutta (MDRK) Flux Reconstruction schemes for hyperbolic conservation
+  laws>, Arpit Babbar, Praveen Chandrashekar, Communications on Applied
+  Mathematics and Computation, <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141>
 
   <\cv-section>
     Working papers
@@ -151,10 +154,7 @@
   Chandrashekar, <with|font-series|bold|submitted to JCP>,
   <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
   of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
-  Babbar, Praveen Chandrashekar,, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Multiderivative
-  Runge-Kutta (MDRK) Flux Reconstruction schemes for hyperbolic conservation
-  laws>, Arpit Babbar, Praveen Chandrashekar,
-  <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
+  Babbar, Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
   preserving Lax-Wendroff flux reconstruction method for special relativistic
   hydrodynamics>, Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen
   Chandrashekar, <hlink|https://arxiv.org/abs/2409.15805|https://arxiv.org/abs/2409.15805>
