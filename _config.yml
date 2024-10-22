@@ -57,10 +57,10 @@ include:
   - _pages
 
 # Source - https://talk.jekyllrb.com/t/title-derived-from-heading-appears-twice-on-top-of-page/1686/3
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true 
+# titles_from_headings:
+#   enabled:     false
+#   strip_title: true
+#   collections: true 
 
 
 # Exclude from processing.
