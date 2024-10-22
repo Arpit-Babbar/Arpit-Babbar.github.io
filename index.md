@@ -17,7 +17,7 @@ The particular higher order methods that I worked on during my PhD are Lax-Wendr
 6. **Proven linear equivalence with ADER schemes where local evolution is performing by solving an implicit equation** [Preprint](https://arxiv.org/abs/2402.18937)
 7. **Accurate and robust multiderivative Runge-Kutta method in a Flux Reconstruction framework** [Preprint](https://arxiv.org/abs/2403.02141)
 
-My latest publications can be found [here](https://babbar.dev/publications). You can see my cv [here](cv/cv.pdf). Thanks for visiting!
+My latest list of publications can be found [here](https://babbar.dev/publications). You can see my cv [here](cv/cv.pdf). Thanks for visiting!
 ##### Presenting our work at [ICOSAHOM 2023](https://icosahom2023.org/), [Yonsei University, Seoul, Korea](https://www.yonsei.ac.kr/en_sc/index.jsp)
 <img src="assets/icosahom.png" width="80%"/>
 
