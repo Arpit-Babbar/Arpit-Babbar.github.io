@@ -88,6 +88,9 @@ defaults:
   - scope:
       path: "_news"
       type: pages
+  - scope:
+      path: ""
+      type: publications
     values:
       layout: single
       author_profile: true
