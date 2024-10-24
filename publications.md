@@ -35,4 +35,4 @@ permanentlink: /_pages/publications.md
 <li> Lax-Wendroff Flux Reconstruction for hyperbolic conservation laws, Arpit Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during visit at IISER-Trivandrum</li>
 </ol>
 ## Thesis
-1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, Bangalore, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)] [[Source](https://github.com/Arpit-Babbar/dissertation)]
+1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)] [[Source](https://github.com/Arpit-Babbar/dissertation)] [[Cite](https://shodhganga.inflibnet.ac.in/handle/10603/591603)].
