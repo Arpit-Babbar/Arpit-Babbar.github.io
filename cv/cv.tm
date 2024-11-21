@@ -146,7 +146,11 @@
     Runge-Kutta (MDRK) Flux Reconstruction schemes for hyperbolic
     conservation laws>, Arpit Babbar, Praveen Chandrashekar, Communications
     on Applied Mathematics and Computation,
-    <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141>
+    <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141><new-line><timeline|2024><with|font-shape|italic|Lax-Wendroff
+    Flux Reconstruction on adaptive curvilinear meshes with error based time
+    stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
+    Chandrashekar, accepted in Journal of Computational Physics,
+    <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926>
   </vgroup>
 
   <\vgroup>
@@ -154,13 +158,9 @@
       Working papers
     </cv-section>
 
-    <timeline|\<bullet\>><with|font-shape|italic|Lax-Wendroff Flux
-    Reconstruction on adaptive curvilinear meshes with error based time
-    stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
-    Chandrashekar, <with|font-series|bold|submitted to JCP>,
-    <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
-    of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
-    Babbar, Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
+    <timeline|\<bullet\>><with|font-shape|italic|Equivalence of ADER and
+    Lax-Wendroff in DG / FR framework for linear problems>, Arpit Babbar,
+    Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
     preserving Lax-Wendroff flux reconstruction method for special
     relativistic hydrodynamics>, Sujoy Basak, Arpit Babbar, Harish Kumar and
     Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2409.15805|https://arxiv.org/abs/2409.15805>
@@ -384,9 +384,3 @@
     <associate|src-compact|inline args>
   </collection>
 </initial>
-
-<\references>
-  <\collection>
-    <associate|auto-1|<tuple|1|?>>
-  </collection>
-</references>
