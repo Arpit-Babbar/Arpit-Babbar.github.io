@@ -23,7 +23,7 @@ permanentlink: /_pages/publications.md
 </ol>
 ## Talks
 <ol reversed>
-<li> Admissibility preserving LaxˆWendroff Flux Reconstruction schemes for compressible flows, IGHASC: Indo-german Workshop on Hardware-aware Scientific Computing 2024, Heidelberg, Germany.</li>
+<li> Admissibility preserving Lax-Wendroff Flux Reconstruction schemes for compressible flows, IGHASC: Indo-german Workshop on Hardware-aware Scientific Computing 2024, Heidelberg, Germany.</li>
 <li> Compact Runge-Kutta Flux Reconstruction methods, Kompaktseminar 2024, Prien am Chiemsee, Germany.</li>
 <li> Admissibility preserving Flux Reconstruction / Discontinuous Galerkin methods for compressible flows, Mathematics Of the Weather 2024, Bad Orb, Germany.</li>
 <li> TrixiLW.jl: A high-order, single stage hyperbolic PDE solver using Trixi.jl, Arpit Babbar, Praveen Chandrashekar, invited to present in the Numerical Engine Room Talks </li>
