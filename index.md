@@ -11,7 +11,7 @@ Prior to my current position, I was a PhD student under [Professor Praveen Chand
 The particular higher order methods that I worked on during my PhD are Lax-Wendroff Flux Reconstruction (LWFR) schemes. These simulate time dependent flows without depending on an Ordinary Differential Equation (ODE) solver and can thus achieve higher order accuracy in a single stage, minimizing memory transfers even more than standard higher order methods. My PhD thesis can be found [here](https://babbar.dev/assets/thesis.pdf). In collaboration with my colleagues, my PhD thesis includes the following contributions to the LWFR scheme.
 1. **Enhancement of stability and accuracy**: [Article](https://www.sciencedirect.com/science/article/pii/S0021999122004855) [Preprint](https://arxiv.org/abs/2207.02954)
 2. **Provably admissibility-preserving shock capturing with particular focus on maintaining the benefits of high order accuracy:**  [Article](https://link.springer.com/article/10.1007/s10915-024-02482-9)  [Preprint](https://arxiv.org/abs/2305.10781)
-3. **Embedded error-based time step computation, tested on adaptive curvilinear meshes.**  [Preprint](https://arxiv.org/abs/2402.11926)
+3. **Embedded error-based time step computation, tested on adaptive curvilinear meshes.**  [Preprint](https://arxiv.org/abs/2402.11926) [Article](https://doi.org/10.1016/j.jcp.2024.113622)
 4. **Advection-diffusion equations like Navier-Stokes** [Preprint](https://arxiv.org/abs/2402.12669)
 5. **Generalized framework for admissibility preservation, source terms** [Preprint](https://arxiv.org/abs/2402.01442)
 6. **Proven linear equivalence with ADER schemes where local evolution is performing by solving an implicit equation** [Preprint](https://arxiv.org/abs/2402.18937)
