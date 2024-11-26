@@ -1,4 +1,4 @@
-<TeXmacs|2.1.2>
+<TeXmacs|2.1.4>
 
 <style|<tuple|generic|british|reduced-margins>>
 
@@ -150,7 +150,7 @@
     Flux Reconstruction on adaptive curvilinear meshes with error based time
     stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
     Chandrashekar, accepted in Journal of Computational Physics,
-    <hlink|https://arxiv.org/abs/2402.11926|https://arxiv.org/abs/2402.11926>
+    <hlink|https://doi.org/10.1016/j.jcp.2024.113622|https://doi.org/10.1016/j.jcp.2024.113622>
   </vgroup>
 
   <\vgroup>
