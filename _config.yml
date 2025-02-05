@@ -56,27 +56,6 @@ plugins:
 include:
   - _pages
 
-# Source - https://talk.jekyllrb.com/t/title-derived-from-heading-appears-twice-on-top-of-page/1686/3
-# titles_from_headings:
-#   enabled:     false
-#   strip_title: true
-#   collections: true 
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-#
-#
-#
 # Source - https://github.com/mmistakes/minimal-mistakes/issues/1740#issuecomment-503997931
 # Defaults
 defaults:
@@ -91,10 +70,4 @@ defaults:
       # comments: # true
       # share: true
       # related: true
-  # _pages
-  - scope:
-      path: "_news"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+
