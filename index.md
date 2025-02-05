@@ -22,3 +22,14 @@ My latest list of publications can be found [here](https://babbar.dev/publicatio
 <img src="assets/icosahom.png" width="80%"/>
 
 Photo credits to [Kedar Wagh](https://kedarswagh.github.io/)
+
+## Latest News
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date_to_string }}: {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
