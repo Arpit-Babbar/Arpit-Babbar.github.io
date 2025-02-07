@@ -7,7 +7,7 @@ permanentlink: /_pages/publications.md
 ---
 ## Peer reviewed publications
 <ol reversed> 
-<li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Bound preserving Lax-Wendroff flux reconstruction method for special relativistic hydrodynamics", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2409.15805">Arxiv</a>].[<a href = "https://doi.org/10.1016/j.jcp.2025.113815">Journal</a>] </li> 
+<li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Bound preserving Lax-Wendroff flux reconstruction method for special relativistic hydrodynamics", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2409.15805">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2025.113815">Journal</a>] </li> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2402.11926">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2024.113622">Journal</a>]</li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Multi-derivative Runge-Kutta flux reconstruction for hyperbolic conservation laws", accepted in Communications on Applied Mathematics and Computation. [<a href = "https://arxiv.org/abs/2403.02141">Arxiv</a>]</li> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Generalized framework for admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic conservation laws with source terms", Proceedings of International Conference on Spectral and High Order Methods (ICOSAHOM2023). [<a href = "https://arxiv.org/abs/2402.01442">Arxiv</a>]</li> 
@@ -34,4 +34,4 @@ permanentlink: /_pages/publications.md
 <li> Lax-Wendroff Flux Reconstruction for hyperbolic conservation laws, Arpit Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during visit at IISER-Trivandrum</li>
 </ol>
 ## Thesis
-1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)] [[Source Code](https://github.com/Arpit-Babbar/dissertation)] [[Cite](https://shodhganga.inflibnet.ac.in/handle/10603/591603)].
+1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)], [[Source Code](https://github.com/Arpit-Babbar/dissertation)], [[Cite](https://shodhganga.inflibnet.ac.in/handle/10603/591603)].
