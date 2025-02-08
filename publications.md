@@ -17,10 +17,10 @@ permanentlink: /_pages/publications.md
 </ol>
 
 ## Preprints
-
 <ol reversed> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
 </ol>
+
 ## Talks
 <ol reversed>
 <li> Admissibility preserving Lax-Wendroff Flux Reconstruction schemes for compressible flows, IGHASC: Indo-german Workshop on Hardware-aware Scientific Computing 2024, Heidelberg, Germany.</li>
@@ -33,5 +33,6 @@ permanentlink: /_pages/publications.md
 <li> Error based time stepping for Lax-Wendroff Flux Reconstruction, Arpit Babbar, Praveen Chandrashekar, Indo-German conference on Computational Mathematics (IGCM), CDS IISc & IWR Heidelberg</li>
 <li> Lax-Wendroff Flux Reconstruction for hyperbolic conservation laws, Arpit Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during visit at IISER-Trivandrum</li>
 </ol>
+
 ## Thesis
 1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)], [[Source Code](https://github.com/Arpit-Babbar/dissertation)], [[Cite](https://shodhganga.inflibnet.ac.in/handle/10603/591603)].
