@@ -19,6 +19,7 @@ permanentlink: /_pages/publications.md
 ## Preprints
 
 <ol reversed> 
+<li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation". [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>] </li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
 </ol>
 ## Talks
