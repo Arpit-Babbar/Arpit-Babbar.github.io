@@ -1,0 +1,14 @@
+---
+title: GPU codes using KernelAbstractions.jl
+classes: wide
+date: 2025-03-08T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Jekyll
+  - update
+---
+
+[Marco Artiano](https://scholar.google.com/citations?user=cwIfgkIAAAAJ&hl=en) and I wrote some GPU codes using [`KernelAbstractions.jl`](https://github.com/JuliaGPU/KernelAbstractions.jl) with the help of [Valentin Churavy](https://vchuravy.dev). This is our first time using `KernelAbstractions.jl`, and we will appreciate any feedback and comments!
+1. https://github.com/Arpit-Babbar/KernelAbstractionsFV.jl
+2. https://github.com/MarcoArtiano/IncompressibleNavierStokes.jl
