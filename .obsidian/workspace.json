@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trixi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,9 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b06372c5e6fb5c61",
+  "active": "c8e67941b08be3a4",
   "lastOpenFiles": [
     "_posts/2025-01-23-trixi.md",
+    "_posts/2024-10-24-iwr.md",
     "_posts/2025-03-08-kernel.md",
     "_posts/2023-10-25-talk.md",
     "index.md",
@@ -201,7 +202,6 @@
     "cv/cv-1.png",
     "assets/icosahom.png",
     "_site/README.md",
-    "_posts/2024-10-24-iwr.md",
     "_posts/2024-10-03-mow.md",
     "_pages/year-archive.md",
     "_pages/tag-archive.md",
