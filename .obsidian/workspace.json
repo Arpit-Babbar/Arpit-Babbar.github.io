@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publications.md",
+                "file": "_posts/2025-06-01-julia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "2025-06-01-julia"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "c8e67941b08be3a4",
   "lastOpenFiles": [
+    "publications.md",
     "_posts/2025-06-01-julia.md",
     "_posts/2025-03-08-kernel.md",
     "_posts/2025-01-23-trixi.md",
     "_posts/2024-10-24-iwr.md",
     "_posts/2023-10-25-talk.md",
     "index.md",
-    "publications.md",
     "2025-02-07.md",
     "2025-02-07 1.md",
     "_posts/2025-01-23-trixi.md~",
