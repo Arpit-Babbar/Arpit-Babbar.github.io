@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 permanentlink: /_pages/about.md
 ---
-I am a [Humboldt postdoctoral researcher](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1241567/dr-arpit-babbar) under [Professor Hendrik Ranocha](https://ranocha.de/) in [the Numerical Mathematics group at Johannes Gutenberg University, Mainz](https://www.nummath.math.uni-mainz.de/). My stay in Mainz was initially (August 2024-March 2025) was funded by the [Mainz Institute of Multiscale Modeling (M3ODEL)](https://model.uni-mainz.de/).
+I am a [Humboldt postdoctoral researcher](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1241567/dr-arpit-babbar) under [Professor Hendrik Ranocha](https://ranocha.de/) in [the Numerical Mathematics group at Johannes Gutenberg University, Mainz](https://www.nummath.math.uni-mainz.de/).
 
 Prior to my current position, I was a PhD student under [Professor Praveen Chandrashekar](https://cpraveen.github.io) at [Tata Institute of Fundamental Research - Centre for Applicable Mathematics](https://www.math.tifrbng.res.in/). My primary work is on the development of efficient numerical algorithms for simulation of advection dominated fluid flows. The broad class of numerical algorithms that I study are higher order methods. These methods are notable for having better accuracy with fewer grid points and doing more number crunching and lesser memory transfers, something that [modern computers like](https://www.sciencedirect.com/science/article/pii/S0010465514002549).
 
