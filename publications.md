@@ -18,7 +18,7 @@ permanentlink: /_pages/publications.md
 
 ## Preprints
 <ol reversed>
-<li> Arpit Babbar, Valentin Churavy, Michael Schlottke Lakemper, Hendrik Ranocha, "Automatic differentiation for Lax-Wendroff-type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
+<li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for Lax-Wendroff-type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
 <li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State". [<a href = "https://arxiv.org/abs/2505.05128">Arxiv</a>] </li> 
 <li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation". [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>] </li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
