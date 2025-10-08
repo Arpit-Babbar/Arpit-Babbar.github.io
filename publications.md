@@ -7,6 +7,7 @@ permanentlink: /_pages/publications.md
 ---
 ## Peer reviewed publications
 <ol reversed> 
+<li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State", Journal of Scientific Computing. [<a href = "https://arxiv.org/abs/2505.05128">Arxiv</a>] </li> 
 <li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Bound preserving Lax-Wendroff flux reconstruction method for special relativistic hydrodynamics", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2409.15805">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2025.113815">Journal</a>] </li> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2402.11926">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2024.113622">Journal</a>]</li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Multi-derivative Runge-Kutta flux reconstruction for hyperbolic conservation laws", Communications on Applied Mathematics and Computation (2025). [<a href = "https://arxiv.org/abs/2403.02141">Arxiv</a>], [<a href = "https://link.springer.com/article/10.1007/s42967-024-00463-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250402&utm_content=10.1007/s42967-024-00463-1">Journal</a>]</li> 
@@ -19,7 +20,6 @@ permanentlink: /_pages/publications.md
 ## Preprints
 <ol reversed>
 <li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for Lax-Wendroff-type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
-<li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State". [<a href = "https://arxiv.org/abs/2505.05128">Arxiv</a>] </li> 
 <li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation". [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>] </li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
 </ol>
