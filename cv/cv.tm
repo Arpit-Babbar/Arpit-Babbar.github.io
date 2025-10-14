@@ -101,9 +101,15 @@
       <very-large|Education>
     </cv-section>
 
-    <timeline|2024-Present><with|font-series|bold|<abbr|Postdoctoral
-    researcher>> Numerical Mathematics, Johannes Gutenberg University,
+    <timeline|2025-Present><hlink|<with|font-series|bold|<abbr|Humboldt
+    Postdoctoral researcher>>|https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1241567/dr-arpit-babbar>
+    Numerical Mathematics, Johannes Gutenberg University,
     Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha
+
+    <timeline|2024-2025><with|font-series|bold|<abbr|Postdoctoral
+    researcher>> Numerical Mathematics, Johannes Gutenberg University,
+    Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha, funded by
+    Mainz Institute of Multiscale Modeling
 
     <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.>> Tata Institute
     of Fundamental Research - Centre for Applicable
@@ -146,11 +152,18 @@
     Runge-Kutta (MDRK) Flux Reconstruction schemes for hyperbolic
     conservation laws>, Arpit Babbar, Praveen Chandrashekar, Communications
     on Applied Mathematics and Computation,
-    <hlink|https://arxiv.org/abs/2403.02141|https://arxiv.org/abs/2403.02141><new-line><timeline|2024><with|font-shape|italic|Lax-Wendroff
+    <hlink|https://doi.org/10.1007/s42967-024-00463-1|https://doi.org/10.1007/s42967-024-00463-1><new-line><timeline|2024><with|font-shape|italic|Lax-Wendroff
     Flux Reconstruction on adaptive curvilinear meshes with error based time
     stepping for hyperbolic conservation laws>, Arpit Babbar, Praveen
-    Chandrashekar, accepted in Journal of Computational Physics,
-    <hlink|https://doi.org/10.1016/j.jcp.2024.113622|https://doi.org/10.1016/j.jcp.2024.113622>
+    Chandrashekar, Journal of Computational Physics,
+    <hlink|https://doi.org/10.1016/j.jcp.2024.113622|https://doi.org/10.1016/j.jcp.2024.113622><new-line><timeline|2025><with|font-shape|italic|Bound
+    preserving Lax-Wendroff flux reconstruction method for special
+    relativistic hydrodynamics>, Sujoy Basak, Arpit Babbar, Harish Kumar and
+    Praveen Chandrashekar, <hlink|https://doi.org/10.1016/j.jcp.2025.113815|https://doi.org/10.1016/j.jcp.2025.113815><new-line><timeline|2025><with|font-shape|italic|Constraints
+    Preserving Lax-Wendroff Flux Reconstruction for Relativistic
+    Hydrodynamics with General Equations of State>, Sujoy Basak, Arpit
+    Babbar, Harish Kumar and Praveen Chandrashekar, accepted in Journal of
+    Scientific Computing, <hlink|https://arxiv.org/abs/2505.05128|https://arxiv.org/abs/2505.05128>
   </vgroup>
 
   <\vgroup>
@@ -158,25 +171,15 @@
       Working papers
     </cv-section>
 
-    <timeline|\<bullet\>><with|font-shape|italic|Equivalence of ADER and
-    Lax-Wendroff in DG / FR framework for linear problems>, Arpit Babbar,
-    Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937><new-line><timeline|\<bullet\>><with|font-shape|italic|Bound
-    preserving Lax-Wendroff flux reconstruction method for special
-    relativistic hydrodynamics>, Sujoy Basak, Arpit Babbar, Harish Kumar and
-    Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2409.15805|https://arxiv.org/abs/2409.15805>
-  </vgroup>
-
-  <\vgroup>
-    <\cv-section>
-      Works in Progress
-    </cv-section>
-
-    <timeline|\<bullet\>><with|font-shape|italic|Neural network based
-    smoothness indicator for subcell based blending schemes>, Deep Ray,
-    Praveen Chandrashekar, Vaishnavi Sharma, Arpit
-    Babbar<new-line><timeline|\<bullet\>><with|font-shape|italic|MDRK schemes
-    on curvilinear meshes with adaptive time stepping>, Praveen
-    Chandrashekar, Arpit Babbar
+    <timeline|\<bullet\>><with|font-shape|italic|Automatic differentiation
+    for Lax-Wendroff-type discretizations>, Arpit Babbar, Valentin Churavy,
+    Michael Schlottke-Lakemper, Hendrik Ranocha,
+    <hlink|https://arxiv.org/abs/2506.11719|https://arxiv.org/abs/2506.11719><new-line><timeline|\<bullet\>><with|font-shape|italic|Compact
+    Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with
+    admissibility preservation>, Arpit Babbar and Qifan Chen,
+    <hlink|https://arxiv.org/abs/2502.07517|https://arxiv.org/abs/2502.07517><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
+    of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
+    Babbar, Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937>
   </vgroup>
 
   <\vgroup>
@@ -241,37 +244,51 @@
     <tabular|<tformat|<table|<row|<cell|<verbatim|Tenkai.jl> >|<cell|Single
     step hyperbolic conservation law solver with novel admissibility
     preserving >>|<row|<cell|>|<cell|subcell based shock capturing scheme on
-    Cartesian meshes>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>>>|<row|<cell|>|<cell|>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
+    Cartesian meshes with continuous integration
+    (CI)>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
     conservation law solver on adaptively refined curvilinear meshes with
     >>|<row|<cell|>|<cell|novel error-based time stepping with Lax-Wendroff
     and Multi-Derivative Runge-Kutta >>|<row|<cell|>|<cell|space-time
-    discretization in Flux Reconstruction
-    framework>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/TrixiLW.jl|https://github.com/arpit-babbar/TrixiLW.jl>>>>>>
+    discretization in Flux Reconstruction framework with continuous
+    integration (CI)>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/TrixiLW.jl|https://github.com/arpit-babbar/TrixiLW.jl>>>>>>
   </vgroup>
 
   <\vgroup>
     <\cv-section>
-      Talks
+      Talks/presentations
     </cv-section>
 
-    <timeline|2024>Admissibility preserving Lax-Wendroff Flux Reconstruction
-    schemes for compressible flows, IGHASC:
-    <with|font-series|bold|<hlink|Indo-german Workshop on Hardware-aware
-    Scientific Computing 2024|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
-    Heidelberg, Germany.
-
-    <timeline|2024>Compact Runge-Kutta Flux Reconstruction methods,
-    <with|font-series|bold|<hlink|Kompaktseminar
+    <timeline|2025>Compact Runge-Kutta Flux Reconstruction for
+    non-conservative hyperbolic equations, <hlink|Kompaktseminar
+    2025|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/>.<new-line><timeline|2025><hlink|Automatic
+    di\[erentiation and its application to Lax-Wendro\[
+    methods|https://www.math.tifrbng.res.in/events/event15>, invited talk at
+    TIFR-CAM<new-line><timeline|2025>IMEX compact Runge-Kutta Flux
+    Reconstruction for hyperbolic equations, Arpit Babbar, Hendrik Ranocha,
+    <hlink|ICOSAHOM 2025|https://icosahom2025.org>, Mcgill University,
+    Montreal, Canada<new-line><timeline|2025>Compact Runge-Kutta methods for
+    solving hyperbolic conservation laws, Arpit Babbar, Qifan Chen,
+    <hlink|ICOSAHOM 2025|https://icosahom2025.org>, Mcgill University,
+    Montreal, Canada<new-line><timeline|2025><hlink|Admissibility preserving
+    IMEX Compact Runge-Kutta Flux Reconstruction|https://numhyp25.sciencesconf.org/data/pages/poster_1.pdf>,
+    Arpit Babbar, Hendrik Ranocha, poster presentation at Numerical Methods
+    for Hyperbolic Problems (numhyp) 2025<new-line><timeline|2025><hlink|Compact
+    Runge-Kutta methods for solving hyperbolic conservation
+    laws|https://ifm.mathematik.uni-wuerzburg.de/~klingen/ewExternalFiles/Babbar.pdf>,
+    Oberseminar Mathematische Strömungsmechanik, Institut für Mathematik der
+    Julius-Maximilians-Universität Würzburg<new-line><timeline|2024>Admissibility
+    preserving Lax-Wendroff Flux Reconstruction schemes for compressible
+    flows, IGHASC: <with|font-series|bold|<hlink|Indo-german Workshop on
+    Hardware-aware Scientific Computing 2024|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
+    Heidelberg, Germany.<new-line><timeline|2024>Compact Runge-Kutta Flux
+    Reconstruction methods, <with|font-series|bold|<hlink|Kompaktseminar
     2024|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2024/>>,
-    Prien am Chiemsee, Germany.
-
-    <timeline|2024>Admissibility preserving Flux Reconstruction /
-    Discontinuous Galerkin methods for compressible flows,
-    <with|font-series|bold|<hlink|Mathematics Of the Weather
-    2024|https://tpchange.de/meetings/4310-2/>>, Bad Orb, Germany.
-
-    <timeline|2023><hlink|<with|font-shape|italic|<verbatim|TrixiLW.jl>: A
-    high-order, single stage hyperbolic PDE solver
+    Prien am Chiemsee, Germany.<new-line><timeline|2024>Admissibility
+    preserving Flux Reconstruction / Discontinuous Galerkin methods for
+    compressible flows, <with|font-series|bold|<hlink|Mathematics Of the
+    Weather 2024|https://tpchange.de/meetings/4310-2/>>, Bad Orb,
+    Germany.<new-line><timeline|2023><hlink|<with|font-shape|italic|<verbatim|TrixiLW.jl>:
+    A high-order, single stage hyperbolic PDE solver
     using<nbsp><hlink|<verbatim|Trixi.jl>|https://github.com/trixi-framework/Trixi.jl/>>|https://numerical-engine-room-talks.github.io/>,
     Arpit Babbar, Praveen Chandrashekar, invited to present in the
     <hlink|Numerical Engine Room Talks|https://numerical-engine-room-talks.github.io/><new-line><timeline|2023><hlink|<with|font-shape|italic|Domain-invariant
@@ -304,7 +321,8 @@
       Academic achievements
     </cv-section>
 
-    <timeline|2018-2024>TIFR-CAM Research
+    <timeline|2025>Humboldt postdoctoral research
+    fellowship<new-line><timeline|2018-2024>TIFR-CAM Research
     fellowship<new-line><timeline|2023>National Board of Higher Mathematics
     (NBHM) travel grant to attend ICIAM-2023,
     Tokyo<new-line><timeline|2017>Certificate of merit for the best academic
