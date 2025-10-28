@@ -26,6 +26,26 @@ permanentlink: /_pages/publications.md
 
 ## Talks
 <ol reversed>
+<li> Compact Runge-Kutta Flux Reconstruction for
+non-conservative hyperbolic equations, <a href="https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/">Kompaktseminar 2025</a>.</li>
+<li> Single-stage time integration methods for hyperbolic
+partial differential equations, <a href="https://model.uni-mainz.de/scales-conference-2025/">SCALES-2025</a>.</li>
+<li> <a
+href="https://www.math.tifrbng.res.in/events/event15">Automatic di&#xFB00;erentiation and its application to
+Lax-Wendro&#xFB00; methods</a>, invited talk at TIFR-CAM</li>
+<li> IMEX compact Runge-Kutta Flux Reconstruction for hyperbolic equations, Arpit
+Babbar, Hendrik Ranocha, <a href="https://icosahom2025.org">ICOSAHOM 2025</a>, Mcgill University,
+Montreal, Canada</li>
+<li> Compact Runge-Kutta methods for solving hyperbolic conservation laws, Arpit Babbar, Qifan Chen, <a href="https://icosahom2025.org">ICOSAHOM
+2025</a>, Mcgill University, Montreal, Canada</li>
+<li> <a
+href="https://numhyp25.sciencesconf.org/data/pages/poster_1.pdf">Admissibility preserving IMEX Compact Runge-Kutta Flux
+Reconstruction</a>, Arpit Babbar, Hendrik Ranocha, poster presentation at
+Numerical Methods for Hyperbolic Problems (numhyp) 2025</li>
+<li> <a
+href="https://ifm.mathematik.uni-wuerzburg.de/~klingen/ewExternalFiles/Babbar.pdf">Compact Runge-Kutta methods for solving hyperbolic conservation
+laws</a>, Oberseminar Mathematische Str&ouml;mungsmechanik, Institut f&uuml;r
+Mathematik der Julius-Maximilians-Universit&auml;t W&uuml;rzburg </li>
 <li> Admissibility preserving Lax-Wendroff Flux Reconstruction schemes for compressible flows, IGHASC: Indo-german Workshop on Hardware-aware Scientific Computing 2024, Heidelberg, Germany.</li>
 <li> Compact Runge-Kutta Flux Reconstruction methods, Kompaktseminar 2024, Prien am Chiemsee, Germany.</li>
 <li> Admissibility preserving Flux Reconstruction / Discontinuous Galerkin methods for compressible flows, Mathematics Of the Weather 2024, Bad Orb, Germany.</li>

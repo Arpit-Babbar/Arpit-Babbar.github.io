@@ -260,7 +260,9 @@
 
     <timeline|2025>Compact Runge-Kutta Flux Reconstruction for
     non-conservative hyperbolic equations, <hlink|Kompaktseminar
-    2025|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/>.<new-line><timeline|2025><hlink|Automatic
+    2025|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/>.<new-line><timeline|2025>Single-stage
+    time integration methods for hyperbolic partial differential equations,
+    <hlink|SCALES-2025|https://model.uni-mainz.de/scales-conference-2025/>.<new-line><timeline|2025><hlink|Automatic
     di\[erentiation and its application to Lax-Wendro\[
     methods|https://www.math.tifrbng.res.in/events/event15>, invited talk at
     TIFR-CAM<new-line><timeline|2025>IMEX compact Runge-Kutta Flux
