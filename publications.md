@@ -7,7 +7,7 @@ permanentlink: /_pages/publications.md
 ---
 ## Peer reviewed publications
 <ol reversed> 
-<li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", accepted in Journal of Scientific Computing. [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>] </li>
+<li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", accepted in Journal of Scientific Computing. [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>], [<a href = "https://doi.org/10.1007/s10915-025-03118-2">Journal</a>]  </li>
 <li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State", Journal of Scientific Computing (2025). [<a href = "https://arxiv.org/abs/2505.05128">Arxiv</a>], [<a href = "https://doi.org/10.1007/s10915-025-03092-9">Journal</a>]</li>
 <li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Bound preserving Lax-Wendroff flux reconstruction method for special relativistic hydrodynamics", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2409.15805">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2025.113815">Journal</a>] </li> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Lax-Wendroff Flux Reconstruction on adaptive curvilinear meshes with error based time stepping for hyperbolic conservation laws", Journal of Computational Physics (2025). [<a href = "https://arxiv.org/abs/2402.11926">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2024.113622">Journal</a>]</li>
@@ -59,3 +59,5 @@ Mathematik der Julius-Maximilians-Universit&auml;t W&uuml;rzburg </li>
 
 ## Thesis
 1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)], [[Source Code](https://github.com/Arpit-Babbar/dissertation)], [[Cite](https://shodhganga.inflibnet.ac.in/handle/10603/591603)].
+
+
