@@ -20,7 +20,7 @@ permanentlink: /_pages/publications.md
 
 ## Preprints
 <ol reversed>
-<li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "[https://arxiv.org/abs/2512.08611](https://arxiv.org/abs/2512.08611)">Arxiv</a>]</li>
+<li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>]</li>
 <li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for Lax-Wendroff-type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
 </ol>
