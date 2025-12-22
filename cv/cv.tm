@@ -162,8 +162,11 @@
     Praveen Chandrashekar, <hlink|https://doi.org/10.1016/j.jcp.2025.113815|https://doi.org/10.1016/j.jcp.2025.113815><new-line><timeline|2025><with|font-shape|italic|Constraints
     Preserving Lax-Wendroff Flux Reconstruction for Relativistic
     Hydrodynamics with General Equations of State>, Sujoy Basak, Arpit
-    Babbar, Harish Kumar and Praveen Chandrashekar, accepted in Journal of
-    Scientific Computing, <hlink|https://arxiv.org/abs/2505.05128|https://arxiv.org/abs/2505.05128>
+    Babbar, Harish Kumar and Praveen Chandrashekar, Journal of Scientific
+    Computing, <hlink|https://doi.org/10.1007/s10915-025-03092-9|https://doi.org/10.1007/s10915-025-03092-9><new-line><timeline|2025><with|font-shape|italic|Compact
+    Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with
+    admissibility preservation>, Arpit Babbar and Qifan Chen, Journal of
+    Scientific Computing, <hlink|https://doi.org/10.1007/s10915-025-03118-2|https://doi.org/10.1007/s10915-025-03118-2><new-line>
   </vgroup>
 
   <\vgroup>
@@ -171,13 +174,12 @@
       Working papers
     </cv-section>
 
-    <timeline|\<bullet\>><with|font-shape|italic|Automatic differentiation
-    for Lax-Wendroff-type discretizations>, Arpit Babbar, Valentin Churavy,
-    Michael Schlottke-Lakemper, Hendrik Ranocha,
-    <hlink|https://arxiv.org/abs/2506.11719|https://arxiv.org/abs/2506.11719><new-line><timeline|\<bullet\>><with|font-shape|italic|Compact
-    Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with
-    admissibility preservation>, Arpit Babbar and Qifan Chen,
-    <hlink|https://arxiv.org/abs/2502.07517|https://arxiv.org/abs/2502.07517><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
+    <timeline|\<bullet\>><with|font-shape|italic|Compact Runge-Kutta flux
+    reconstruction for non-conservative hyperbolic equations>, Arpit Babbar
+    and Hendrik Ranocha, <hlink|https://arxiv.org/abs/2512.08611|https://arxiv.org/abs/2512.08611><new-line><timeline|\<bullet\>><with|font-shape|italic|Automatic
+    differentiation for Lax-Wendroff-type discretizations>, Arpit Babbar,
+    Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha,
+    <hlink|https://arxiv.org/abs/2506.11719|https://arxiv.org/abs/2506.11719><new-line><timeline|\<bullet\>><with|font-shape|italic|Equivalence
     of ADER and Lax-Wendroff in DG / FR framework for linear problems>, Arpit
     Babbar, Praveen Chandrashekar, <hlink|https://arxiv.org/abs/2402.18937|https://arxiv.org/abs/2402.18937>
   </vgroup>
