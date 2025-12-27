@@ -109,7 +109,8 @@
     <timeline|2024-2025><with|font-series|bold|<abbr|Postdoctoral
     researcher>> Numerical Mathematics, Johannes Gutenberg University,
     Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha, funded by
-    Mainz Institute of Multiscale Modeling
+    <hlink|Mainz Institute of Multiscale Modeling
+    (M3ODEL)|https://model.uni-mainz.de>
 
     <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.>> Tata Institute
     of Fundamental Research - Centre for Applicable
@@ -124,11 +125,11 @@
     Mathematics> Sri Venkateswara College, Delhi
     University<next-line>Percentage - 83
 
-    <timeline|2012-2014><with|font-series|bold|CBSE, AISSCE> Nosegay Public
-    School<next-line>Percentage - 92.4
+    <timeline|2012-2014><with|font-series|bold|CBSE, AISSCE> (Nationwide
+    school graduation exam)<next-line>Percentage - 92.4
 
-    <timeline|2010-12><with|font-series|bold|CBSE, AISSCE> Nosegay Public
-    School<next-line>CGPA - 9.6/10
+    <timeline|2010-12><with|font-series|bold|CBSE, AISSCE><next-line>CGPA -
+    9.6/10
   </vgroup>
 
   <\vgroup>
