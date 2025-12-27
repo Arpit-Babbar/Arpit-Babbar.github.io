@@ -102,24 +102,28 @@
     </cv-section>
 
     <timeline|2025-Present><hlink|<with|font-series|bold|<abbr|Humboldt
-    Postdoctoral researcher>>|https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1241567/dr-arpit-babbar>
-    Numerical Mathematics, Johannes Gutenberg University,
-    Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha
+    Postdoctoral researcher>>|https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1241567/dr-arpit-babbar>,
+    <hlink|Numerical Mathematics|https://www.nummath.math.uni-mainz.de>,
+    <hlink|Johannes Gutenberg University|https://www.uni-mainz.de/en/>,
+    Mainz.<next-line>Supervisor: <hlink|<abbr|Prof.> Hendrik
+    Ranocha|https://ranocha.de>
 
     <timeline|2024-2025><with|font-series|bold|<abbr|Postdoctoral
-    researcher>> Numerical Mathematics, Johannes Gutenberg University,
-    Mainz.<next-line>Supervisor: <abbr|Prof.> Hendrik Ranocha, funded by
-    <hlink|Mainz Institute of Multiscale Modeling
-    (M3ODEL)|https://model.uni-mainz.de>
+    researcher>>, <hlink|Numerical Mathematics|https://www.nummath.math.uni-mainz.de>,
+    <hlink|Johannes Gutenberg University|https://www.uni-mainz.de/en/>,
+    Mainz.<next-line>Supervisor: <hlink|<abbr|Prof.> Hendrik
+    Ranocha|https://ranocha.de>, funded by <hlink|Mainz Institute of
+    Multiscale Modeling (M3ODEL)|https://model.uni-mainz.de>
 
-    <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.>> Tata Institute
-    of Fundamental Research - Centre for Applicable
-    Mathematics<next-line>Supervisor: <abbr|Prof.> Praveen Chandrashekar
+    <timeline|2020-2024><with|font-series|bold|<abbr|Ph.D.> (Mathematics)>,
+    <hlink|Tata Institute of Fundamental Research - Centre for Applicable
+    Mathematics|https://www.math.tifrbng.res.in/en><next-line>Supervisor:
+    <hlink|<abbr|Prof.> Praveen Chandrashekar|https://cpraveen.github.io>
 
-    <timeline|2018\U2020><with|font-series|bold|<abbr|M.Sc.> in Mathematics>
-    Tata Institute of Fundamental Research - Centre for Applicable
-    Mathematics<next-line>Percentage - 87.25<next-line>First class with
-    distinction
+    <timeline|2018\U2020><with|font-series|bold|<abbr|M.Sc.> (Mathematics)>,
+    <hlink|Tata Institute of Fundamental Research - Centre for Applicable
+    Mathematics|https://www.math.tifrbng.res.in/en><next-line>Percentage -
+    87.25<next-line>First class with distinction
 
     <timeline|2014-2017><with|font-series|bold|<abbr|B.Sc.> (Honours) in
     Mathematics> Sri Venkateswara College, Delhi
@@ -256,70 +260,68 @@
     integration (CI)>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/TrixiLW.jl|https://github.com/arpit-babbar/TrixiLW.jl>>>>>>
   </vgroup>
 
-  <\vgroup>
-    <\cv-section>
-      Talks/presentations
-    </cv-section>
+  <\cv-section>
+    Talks/presentations
+  </cv-section>
 
-    <timeline|2025>Compact Runge-Kutta Flux Reconstruction for
-    non-conservative hyperbolic equations, <hlink|Kompaktseminar
-    2025|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/>.<new-line><timeline|2025>Single-stage
-    time integration methods for hyperbolic partial differential equations,
-    <hlink|SCALES-2025|https://model.uni-mainz.de/scales-conference-2025/>.<new-line><timeline|2025><hlink|Automatic
-    di\[erentiation and its application to Lax-Wendro\[
-    methods|https://www.math.tifrbng.res.in/events/event15>, invited talk at
-    TIFR-CAM<new-line><timeline|2025>IMEX compact Runge-Kutta Flux
-    Reconstruction for hyperbolic equations, Arpit Babbar, Hendrik Ranocha,
-    <hlink|ICOSAHOM 2025|https://icosahom2025.org>, Mcgill University,
-    Montreal, Canada<new-line><timeline|2025>Compact Runge-Kutta methods for
-    solving hyperbolic conservation laws, Arpit Babbar, Qifan Chen,
-    <hlink|ICOSAHOM 2025|https://icosahom2025.org>, Mcgill University,
-    Montreal, Canada<new-line><timeline|2025><hlink|Admissibility preserving
-    IMEX Compact Runge-Kutta Flux Reconstruction|https://numhyp25.sciencesconf.org/data/pages/poster_1.pdf>,
-    Arpit Babbar, Hendrik Ranocha, poster presentation at Numerical Methods
-    for Hyperbolic Problems (numhyp) 2025<new-line><timeline|2025><hlink|Compact
-    Runge-Kutta methods for solving hyperbolic conservation
-    laws|https://ifm.mathematik.uni-wuerzburg.de/~klingen/ewExternalFiles/Babbar.pdf>,
-    Oberseminar Mathematische Strömungsmechanik, Institut für Mathematik der
-    Julius-Maximilians-Universität Würzburg<new-line><timeline|2024>Admissibility
-    preserving Lax-Wendroff Flux Reconstruction schemes for compressible
-    flows, IGHASC: <with|font-series|bold|<hlink|Indo-german Workshop on
-    Hardware-aware Scientific Computing 2024|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
-    Heidelberg, Germany.<new-line><timeline|2024>Compact Runge-Kutta Flux
-    Reconstruction methods, <with|font-series|bold|<hlink|Kompaktseminar
-    2024|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2024/>>,
-    Prien am Chiemsee, Germany.<new-line><timeline|2024>Admissibility
-    preserving Flux Reconstruction / Discontinuous Galerkin methods for
-    compressible flows, <with|font-series|bold|<hlink|Mathematics Of the
-    Weather 2024|https://tpchange.de/meetings/4310-2/>>, Bad Orb,
-    Germany.<new-line><timeline|2023><hlink|<with|font-shape|italic|<verbatim|TrixiLW.jl>:
-    A high-order, single stage hyperbolic PDE solver
-    using<nbsp><hlink|<verbatim|Trixi.jl>|https://github.com/trixi-framework/Trixi.jl/>>|https://numerical-engine-room-talks.github.io/>,
-    Arpit Babbar, Praveen Chandrashekar, invited to present in the
-    <hlink|Numerical Engine Room Talks|https://numerical-engine-room-talks.github.io/><new-line><timeline|2023><hlink|<with|font-shape|italic|Domain-invariant
-    subcell-based blending limiter for Lax-Wendroff Flux
-    Reconstruction>|https://iciam2023.org/registered_data?id=02554>, Arpit
-    Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
-    <with|font-series|bold|ICIAM August 20-25, 2023>, Waseda Univ.,
-    Tokyo<new-line><timeline|2023><with|font-shape|italic|Embedded
-    error-based time stepping for Lax-Wendroff Flux Reconstruction for
-    compressible flows>, Arpit Babbar, Praveen Chandrashekar,
-    <with|font-series|bold|ICOSAHOM, 14-18 August, 2023>, Yonsei University,
-    Seoul, Korea<new-line><timeline|2023><with|font-shape|italic|Admissibility
-    preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
-    Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, in
-    <with|font-shape|italic|MS6 Towards Practical High-Order Methods for
-    Unsteady High-Fidelity Computational Fluid Dynamics>,
-    \ <with|font-series|bold|ICOSAHOM, 14-18 August,
-    2023><new-line><timeline|2023><with|font-shape|italic|Error based time
-    stepping for Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen
-    Chandrashekar, <with|font-series|bold|Indo-German conference on
-    Computational Mathematics (IGCM)>, CDS IISc & IWR
-    Heidelberg<new-line><timeline|2022><with|font-shape|italic|Lax-Wendroff
-    Flux Reconstruction for hyperbolic conservation laws>, Arpit Babbar,
-    Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during
-    <with|font-series|bold|visit at IISER-Trivandrum>
-  </vgroup>
+  <timeline|2025>Compact Runge-Kutta Flux Reconstruction for non-conservative
+  hyperbolic equations, <hlink|Kompaktseminar
+  2025|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/>.<new-line><timeline|2025>Single-stage
+  time integration methods for hyperbolic partial differential equations,
+  <hlink|SCALES-2025|https://model.uni-mainz.de/scales-conference-2025/>.<new-line><timeline|2025><hlink|Automatic
+  di\[erentiation and its application to Lax-Wendro\[
+  methods|https://www.math.tifrbng.res.in/events/event15>, invited talk at
+  TIFR-CAM<new-line><timeline|2025>IMEX compact Runge-Kutta Flux
+  Reconstruction for hyperbolic equations, Arpit Babbar, Hendrik Ranocha,
+  <hlink|ICOSAHOM 2025|https://icosahom2025.org>, Mcgill University,
+  Montreal, Canada<new-line><timeline|2025>Compact Runge-Kutta methods for
+  solving hyperbolic conservation laws, Arpit Babbar, Qifan Chen,
+  <hlink|ICOSAHOM 2025|https://icosahom2025.org>, Mcgill University,
+  Montreal, Canada<new-line><timeline|2025><hlink|Admissibility preserving
+  IMEX Compact Runge-Kutta Flux Reconstruction|https://numhyp25.sciencesconf.org/data/pages/poster_1.pdf>,
+  Arpit Babbar, Hendrik Ranocha, poster presentation at Numerical Methods for
+  Hyperbolic Problems (numhyp) 2025<new-line><timeline|2025><hlink|Compact
+  Runge-Kutta methods for solving hyperbolic conservation
+  laws|https://ifm.mathematik.uni-wuerzburg.de/~klingen/ewExternalFiles/Babbar.pdf>,
+  Oberseminar Mathematische Strömungsmechanik, Institut für Mathematik der
+  Julius-Maximilians-Universität Würzburg<new-line><timeline|2024>Admissibility
+  preserving Lax-Wendroff Flux Reconstruction schemes for compressible flows,
+  IGHASC: <with|font-series|bold|<hlink|Indo-german Workshop on
+  Hardware-aware Scientific Computing 2024|https://conan.iwr.uni-heidelberg.de/events/hasc_workshop2024/>>,
+  Heidelberg, Germany.<new-line><timeline|2024>Compact Runge-Kutta Flux
+  Reconstruction methods, <with|font-series|bold|<hlink|Kompaktseminar
+  2024|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2024/>>,
+  Prien am Chiemsee, Germany.<new-line><timeline|2024>Admissibility
+  preserving Flux Reconstruction / Discontinuous Galerkin methods for
+  compressible flows, <with|font-series|bold|<hlink|Mathematics Of the
+  Weather 2024|https://tpchange.de/meetings/4310-2/>>, Bad Orb,
+  Germany.<new-line><timeline|2023><hlink|<with|font-shape|italic|<verbatim|TrixiLW.jl>:
+  A high-order, single stage hyperbolic PDE solver
+  using<nbsp><hlink|<verbatim|Trixi.jl>|https://github.com/trixi-framework/Trixi.jl/>>|https://numerical-engine-room-talks.github.io/>,
+  Arpit Babbar, Praveen Chandrashekar, invited to present in the
+  <hlink|Numerical Engine Room Talks|https://numerical-engine-room-talks.github.io/><new-line><timeline|2023><hlink|<with|font-shape|italic|Domain-invariant
+  subcell-based blending limiter for Lax-Wendroff Flux
+  Reconstruction>|https://iciam2023.org/registered_data?id=02554>, Arpit
+  Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara,
+  <with|font-series|bold|ICIAM August 20-25, 2023>, Waseda Univ.,
+  Tokyo<new-line><timeline|2023><with|font-shape|italic|Embedded error-based
+  time stepping for Lax-Wendroff Flux Reconstruction for compressible flows>,
+  Arpit Babbar, Praveen Chandrashekar, <with|font-series|bold|ICOSAHOM, 14-18
+  August, 2023>, Yonsei University, Seoul,
+  Korea<new-line><timeline|2023><with|font-shape|italic|Admissibility
+  preserving subcell limiter for Lax-Wendroff flux reconstruction>, Arpit
+  Babbar, Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, in
+  <with|font-shape|italic|MS6 Towards Practical High-Order Methods for
+  Unsteady High-Fidelity Computational Fluid Dynamics>,
+  \ <with|font-series|bold|ICOSAHOM, 14-18 August,
+  2023><new-line><timeline|2023><with|font-shape|italic|Error based time
+  stepping for Lax-Wendroff Flux Reconstruction>, Arpit Babbar, Praveen
+  Chandrashekar, <with|font-series|bold|Indo-German conference on
+  Computational Mathematics (IGCM)>, CDS IISc & IWR
+  Heidelberg<new-line><timeline|2022><with|font-shape|italic|Lax-Wendroff
+  Flux Reconstruction for hyperbolic conservation laws>, Arpit Babbar,
+  Praveen Chandrashekar, Sudarshan Kumar Kenettinkara, during
+  <with|font-series|bold|visit at IISER-Trivandrum>
 
   <\vgroup>
     <\cv-section>
