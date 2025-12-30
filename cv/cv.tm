@@ -123,7 +123,7 @@
     <timeline|2018\U2020><with|font-series|bold|<abbr|M.Sc.> (Mathematics)>,
     <hlink|Tata Institute of Fundamental Research - Centre for Applicable
     Mathematics|https://www.math.tifrbng.res.in/en><next-line>Percentage -
-    87.25<next-line>First class with distinction
+    87.25 (First class with distinction)
 
     <timeline|2014-2017><with|font-series|bold|<abbr|B.Sc.> (Honours) in
     Mathematics> Sri Venkateswara College, Delhi
@@ -252,7 +252,8 @@
     step hyperbolic conservation law solver with novel admissibility
     preserving >>|<row|<cell|>|<cell|subcell based shock capturing scheme on
     Cartesian meshes with continuous integration
-    (CI)>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
+    (CI)>>|<row|<cell|>|<cell|<hlink|https://github.com/arpit-babbar/Tenkai.jl|https://github.com/arpit-babbar/Tenkai.jl>
+    (Registered Julia package)>>|<row|<cell|<verbatim|TrixiLW.jl>>|<cell|Hyperbolic
     conservation law solver on adaptively refined curvilinear meshes with
     >>|<row|<cell|>|<cell|novel error-based time stepping with Lax-Wendroff
     and Multi-Derivative Runge-Kutta >>|<row|<cell|>|<cell|space-time
