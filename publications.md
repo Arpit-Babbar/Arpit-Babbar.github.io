@@ -27,6 +27,7 @@ permanentlink: /_pages/publications.md
 
 ## Talks
 <ol reversed>
+<li> Compact Runge-Kutta methods for non-conservative hyperbolic equations, seminar at <a href = "https://www.math.tifrbng.res.in"> Tata Institute of Fundamental Research - Centre for Applicable Mathematics (2026) </a>
 <li> Compact Runge-Kutta Flux Reconstruction for
 non-conservative hyperbolic equations, <a href="https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/">Kompaktseminar 2025</a>.</li>
 <li> Single-stage time integration methods for hyperbolic
@@ -60,5 +61,3 @@ Mathematik der Julius-Maximilians-Universit&auml;t W&uuml;rzburg </li>
 
 ## Thesis
 1. "Lax-Wendroff Flux Reconstruction for Compressible Flows", PhD thesis, Tata Institute of Fundamental Research - Centre for Applicable Mathematics, 2024. [[PDF](https://babbar.dev/assets/thesis.pdf)], [[Source Code](https://github.com/Arpit-Babbar/dissertation)], [[Cite](https://shodhganga.inflibnet.ac.in/handle/10603/591603)].
-
-
