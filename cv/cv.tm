@@ -265,6 +265,10 @@
     Talks/presentations
   </cv-section>
 
+  <timeline|2026>Compact Runge-Kutta methods for non-conservative hyperbolic
+  equations, seminar at<nbsp><hlink|Tata Institute of Fundamental Research -
+  Centre for Applicable Mathematics|https://www.math.tifrbng.res.in/>
+
   <timeline|2025>Compact Runge-Kutta Flux Reconstruction for non-conservative
   hyperbolic equations, <hlink|Kompaktseminar
   2025|https://www.numerik.mathematik.uni-mainz.de/kompaktseminar-2025-2/>.<new-line><timeline|2025>Single-stage
