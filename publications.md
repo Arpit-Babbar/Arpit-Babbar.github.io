@@ -25,6 +25,7 @@ permanentlink: /_pages/publications.md
 
 ## Preprints
 <ol reversed>
+<li> Marco Artiano, Arpit Babbar, Michael Schlottke-Lakemper, Gregor Gassner, Hendrik Ranocha, "Jin-Xin relaxation as a shock-capturing method for high-order DG/FR schemes". [<a href = "https://arxiv.org/abs/2603.16290">Arxiv</a>]</li>
 <li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>]</li>
 <li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
 <li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
