@@ -24,6 +24,7 @@ permanentlink: /_pages/publications.md
 
 ## Preprints
 <ol reversed>
+<li> Arpit Babbar, Qifan Chen, Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction methods with entropy- and/or kinetic energy-preserving fluxes". [<a href = "https://arxiv.org/abs/2604.02125">Arxiv</a>] </li>
 <li> Marco Artiano, Arpit Babbar, Michael Schlottke-Lakemper, Gregor Gassner, Hendrik Ranocha, "Jin-Xin relaxation as a shock-capturing method for high-order DG/FR schemes". [<a href = "https://arxiv.org/abs/2603.16290">Arxiv</a>]</li>
 <li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>]</li>
 <li> F. Jochum, I. Knop , S. Klewinghaus, J. Rothermel, M. Artiano , A. Babbar, H. Ranocha, S. Dolaptchiev, U. Achatz, "PinCFlow.jl: An idealized-atmospheric-flow solver coupled to the 3D transient gravity-wave model MS-GWaM3". [<a href = "https://github.com/Atmospheric-Dynamics-GUF/PinCFlow.jl/actions/runs/22067062783/artifacts/5526906954">PDF</a>], [<a href = "https://github.com/Atmospheric-Dynamics-GUF/PinCFlow.jl">Software</a>] </li>
