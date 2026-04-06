@@ -5,6 +5,15 @@ author_profile: true
 title: ""
 permanentlink: /_pages/publications.md
 ---
+## Preprints
+<ol reversed>
+<li> Arpit Babbar, Qifan Chen, Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction methods with entropy- and/or kinetic energy-preserving fluxes". [<a href = "https://arxiv.org/abs/2604.02125">Arxiv</a>] </li>
+<li> Marco Artiano, Arpit Babbar, Michael Schlottke-Lakemper, Gregor Gassner, Hendrik Ranocha, "Jin-Xin relaxation as a shock-capturing method for high-order DG/FR schemes". [<a href = "https://arxiv.org/abs/2603.16290">Arxiv</a>]</li>
+<li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>]</li>
+<li> F. Jochum, I. Knop , S. Klewinghaus, J. Rothermel, M. Artiano , A. Babbar, H. Ranocha, S. Dolaptchiev, U. Achatz, "PinCFlow.jl: An idealized-atmospheric-flow solver coupled to the 3D transient gravity-wave model MS-GWaM3". [<a href = "https://github.com/Atmospheric-Dynamics-GUF/PinCFlow.jl/actions/runs/22067062783/artifacts/5526906954">PDF</a>], [<a href = "https://github.com/Atmospheric-Dynamics-GUF/PinCFlow.jl">Software</a>] </li>
+<li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
+<li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
+</ol>
 ## Peer reviewed journal articles
 <ol reversed> 
 <li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", Journal of Scientific Computing (2025). [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>], [<a href = "https://doi.org/10.1007/s10915-025-03118-2">Journal</a>]  </li>
@@ -20,16 +29,6 @@ permanentlink: /_pages/publications.md
 <ol reversed> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Generalized framework for admissibility preserving Lax-Wendroff Flux Reconstruction for hyperbolic conservation laws with source terms", Proceedings of International Conference on Spectral and High Order Methods (ICOSAHOM2023). [<a href = "https://arxiv.org/abs/2402.01442">Arxiv</a>], [<a href = "https://link.springer.com/chapter/10.1007/978-3-031-76988-7_6">Proceedings</a>]</li> 
 <li> Arpit Babbar and Praveen Chandrashekar, "Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping", Proceedings of International Conference on Spectral and High Order Methods (ICOSAHOM2023). [<a href = "https://arxiv.org/abs/2402.12669">Arxiv</a>], [<a href = "https://link.springer.com/chapter/10.1007/978-3-031-76988-7_7">Proceedings</a>]</li>
-</ol>
-
-## Preprints
-<ol reversed>
-<li> Arpit Babbar, Qifan Chen, Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction methods with entropy- and/or kinetic energy-preserving fluxes". [<a href = "https://arxiv.org/abs/2604.02125">Arxiv</a>] </li>
-<li> Marco Artiano, Arpit Babbar, Michael Schlottke-Lakemper, Gregor Gassner, Hendrik Ranocha, "Jin-Xin relaxation as a shock-capturing method for high-order DG/FR schemes". [<a href = "https://arxiv.org/abs/2603.16290">Arxiv</a>]</li>
-<li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>]</li>
-<li> F. Jochum, I. Knop , S. Klewinghaus, J. Rothermel, M. Artiano , A. Babbar, H. Ranocha, S. Dolaptchiev, U. Achatz, "PinCFlow.jl: An idealized-atmospheric-flow solver coupled to the 3D transient gravity-wave model MS-GWaM3". [<a href = "https://github.com/Atmospheric-Dynamics-GUF/PinCFlow.jl/actions/runs/22067062783/artifacts/5526906954">PDF</a>], [<a href = "https://github.com/Atmospheric-Dynamics-GUF/PinCFlow.jl">Software</a>] </li>
-<li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations". [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
-<li> Arpit Babbar and Praveen Chandrashekar, "Equivalence of ADER and Lax-Wendroff in DG/FR framework for linear problems". [<a href = "https://arxiv.org/abs/2402.18937">Arxiv</a>]</li> 
 </ol>
 
 ## Talks
