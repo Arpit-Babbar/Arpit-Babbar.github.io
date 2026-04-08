@@ -7,6 +7,7 @@ permanentlink: /_pages/publications.md
 ---
 ## Preprints
 <ol reversed>
+<li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Admissible Lax-Wendroff Flux Reconstruction method with Automatic Differentiation on Adaptive Curved Meshes for Relativistic Hydrodynamics". </li>
 <li> Arpit Babbar, Qifan Chen, Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction methods with entropy- and/or kinetic energy-preserving fluxes". [<a href = "https://arxiv.org/abs/2604.02125">Arxiv</a>] </li>
 <li> Marco Artiano, Arpit Babbar, Michael Schlottke-Lakemper, Gregor Gassner, Hendrik Ranocha, "Jin-Xin relaxation as a shock-capturing method for high-order DG/FR schemes". [<a href = "https://arxiv.org/abs/2603.16290">Arxiv</a>]</li>
 <li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations". [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>]</li>
