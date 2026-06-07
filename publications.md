@@ -15,7 +15,7 @@ permanentlink: /_pages/publications.md
 </ol>
 ## Peer reviewed journal articles
 <ol reversed> 
-<li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations", Journal of Computational Physics (2026). [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>] </li>
+<li> Arpit Babbar, Valentin Churavy, Michael Schlottke-Lakemper, Hendrik Ranocha, "Automatic differentiation for performing the Cauchy-Kovalevskaya procedure in Lax-Wendroff type discretizations", Journal of Computational Physics (2026). [<a href = "https://arxiv.org/abs/2506.11719">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2026.115101">Journal</a>] </li>
 <li> Arpit Babbar and Hendrik Ranocha, "Compact Runge-Kutta flux reconstruction for non-conservative hyperbolic equations", Journal of Computational Physics (2026). [<a href = "https://arxiv.org/abs/2512.08611">Arxiv</a>], [<a href = "https://doi.org/10.1016/j.jcp.2026.115060">Journal</a>] </li>
 <li> Arpit Babbar and Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", Journal of Scientific Computing (2025). [<a href = "https://arxiv.org/abs/2502.07517">Arxiv</a>], [<a href = "https://doi.org/10.1007/s10915-025-03118-2">Journal</a>]  </li>
 <li> Sujoy Basak, Arpit Babbar, Harish Kumar and Praveen Chandrashekar, "Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State", Journal of Scientific Computing (2025). [<a href = "https://arxiv.org/abs/2505.05128">Arxiv</a>], [<a href = "https://doi.org/10.1007/s10915-025-03092-9">Journal</a>]</li>
